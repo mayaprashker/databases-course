@@ -10,6 +10,7 @@
 2. [SQLTutorial](https://www.sqltutorial.org/) - topic oriented
 3. [TutorialsPoint](https://www.tutorialspoint.com/sql/index.htm) - sytax oriented
 4. [GeekForGeek](https://www.geeksforgeeks.org/sql-tutorial/) - syntax oriented
+5. [SQLBOLT](https://sqlbolt.com/) - Movies and Syntax oriented
    
 # Market expectations
 1. [GeeksForGeeks database interview questions](https://www.geeksforgeeks.org/database-interview-questions/)
