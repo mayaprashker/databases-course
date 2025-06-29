@@ -141,22 +141,4 @@ where
   b.movie_id != r.movie_id;
 select * from imdb_ijs.movies_recommendations;
 
-drop table if exists imdb_ijs.movies_recommendations_agg;
 
-create table imdb_ijs.movies_recommendations_agg
-as
-select
-base_movie_id 
-, recommended_movie_id 
-, avg(recommendation) as recommendation
-, stddev(recommendation) as recommendation_std
-, count(distinct suggested_by) as suggested_by_num
-, count(distinct justification) as justifications_num
-from
-imdb_ijs.movies_recommendations
-group by
-base_movie_id 
-, recommended_movie_id 
-;
-
-select * from imdb_ijs.movies_recommendations_agg;
