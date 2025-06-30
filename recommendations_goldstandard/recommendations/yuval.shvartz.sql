@@ -1,15 +1,4 @@
 
-
-drop table if exists imdb_ijs.movies_recommendations;
-
-create table imdb_ijs.movies_recommendations
-(base_movie_id int
-, recommended_movie_id int
-, recommendation int 
-, suggested_by varchar(255)
-, justification varchar(255)
-, comment varchar(255)
-);
 -- ----------------------------------------
 -- Insert GOOD recommendations
 
