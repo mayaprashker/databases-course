@@ -1,6 +1,6 @@
 
--- ----------------------------------------
 -- Insert GOOD recommendations
+-- ----------------------------------------
 
 insert into imdb_ijs.movies_recommendations
 with
@@ -75,6 +75,7 @@ where
   b.movie_id != r.movie_id;
 
 -- Insert BAD recommendations
+-- --------------------------------------------------
 insert into imdb_ijs.movies_recommendations
 with
 police as (
