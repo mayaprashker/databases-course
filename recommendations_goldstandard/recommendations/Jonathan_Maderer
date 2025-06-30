@@ -1,0 +1,1519 @@
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2394,  -- Prince of Egypt, The (1998)
+  69469,  -- Garfield's Pet Force (2009)
+  9,
+  'Jonathan Maderer',
+  'Critically praised for visual style and narrative innovation',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  79702,  -- Scott Pilgrim vs. the World (2010)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  10,
+  'Jonathan Maderer',
+  'Critically praised for visual style and narrative innovation',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  26133,  -- Charlie Brown Christmas, A (1965)
+  69469,  -- Garfield's Pet Force (2009)
+  10,
+  'Jonathan Maderer',
+  'Excellent pairing for fans of genre-bending Animation cinema',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  523,  -- Ruby in Paradise (1993)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  8,
+  'Jonathan Maderer',
+  'Shared genre(s): Drama and explore similar emotional arcs',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  127114,  -- The End of the Tour (2015)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  9,
+  'Jonathan Maderer',
+  'Excellent pairing for fans of genre-bending Drama cinema',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  133716,  -- Bootleggers (1961)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  9,
+  'Jonathan Maderer',
+  'Both films feature protagonists on a journey of self-discovery',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7811,  -- Babylon 5: The River of Souls (1998)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  9,
+  'Jonathan Maderer',
+  'Both deal with moral ambiguity and complex character development',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  26965,  -- Boxer, The (1997)
+  3634,  -- Seven Days in May (1964)
+  8,
+  'Jonathan Maderer',
+  'Each film provides a unique but complementary take on the thriller genre',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3675,  -- White Christmas (1954)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  10,
+  'Jonathan Maderer',
+  'Audiences who loved 'White Christmas (1954)' will likely appreciate the tone of 'Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  127096,  -- Project Almanac (2015)
+  3634,  -- Seven Days in May (1964)
+  8,
+  'Jonathan Maderer',
+  'Critically praised for visual style and narrative innovation',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  77688,  -- Three Men and a Cradle (3 hommes et un couffin) (1985)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  10,
+  'Jonathan Maderer',
+  'Shared genre(s): Comedy and explore similar emotional arcs',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1458,  -- Touch (1997)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  10,
+  'Jonathan Maderer',
+  'Critically praised for visual style and narrative innovation',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  88129,  -- Drive (2011)
+  3634,  -- Seven Days in May (1964)
+  8,
+  'Jonathan Maderer',
+  'Each film provides a unique but complementary take on the thriller genre',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1260,  -- M (1931)
+  3634,  -- Seven Days in May (1964)
+  10,
+  'Jonathan Maderer',
+  'Shared genre(s): Thriller and explore similar emotional arcs',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3060,  -- Commitments, The (1991)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  9,
+  'Jonathan Maderer',
+  'Critically praised for visual style and narrative innovation',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2351,  -- Nights of Cabiria (Notti di Cabiria, Le) (1957)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  10,
+  'Jonathan Maderer',
+  'Both films feature protagonists on a journey of self-discovery',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  72395,  -- Precious (2009)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  8,
+  'Jonathan Maderer',
+  'Both films feature protagonists on a journey of self-discovery',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3089,  -- Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  8,
+  'Jonathan Maderer',
+  'Critically praised for visual style and narrative innovation',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2398,  -- Miracle on 34th Street (1947)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  10,
+  'Jonathan Maderer',
+  'Excellent pairing for fans of genre-bending Comedy cinema',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  130052,  -- Clown (2014)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  8,
+  'Jonathan Maderer',
+  ''Clown (2014)' and 'Cruel Romance, A (Zhestokij Romans) (1984)' are cornerstones of modern drama cinema',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  73501,  -- Pekka ja Pätkä Suezilla (1958)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  9,
+  'Jonathan Maderer',
+  'Shared genre(s): Comedy and explore similar emotional arcs',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8730,  -- To End All Wars (2001)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  9,
+  'Jonathan Maderer',
+  'Shared genre(s): Drama and explore similar emotional arcs',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4458,  -- Africa: The Serengeti (1994)
+  152711,  -- Who Killed Chea Vichea? (2010)
+  10,
+  'Jonathan Maderer',
+  'Excellent pairing for fans of genre-bending Documentary cinema',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  40815,  -- Harry Potter and the Goblet of Fire (2005)
+  3634,  -- Seven Days in May (1964)
+  9,
+  'Jonathan Maderer',
+  'Both deal with moral ambiguity and complex character development',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2967,  -- Bad Seed, The (1956)
+  3634,  -- Seven Days in May (1964)
+  10,
+  'Jonathan Maderer',
+  'Masterclass in storytelling with overlapping themes of redemption',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  116799,  -- Inherent Vice (2014)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  10,
+  'Jonathan Maderer',
+  'Both films feature protagonists on a journey of self-discovery',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  106,  -- Nobody Loves Me (Keiner liebt mich) (1994)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  10,
+  'Jonathan Maderer',
+  'Both films feature protagonists on a journey of self-discovery',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  5876,  -- Quiet American, The (2002)
+  3634,  -- Seven Days in May (1964)
+  10,
+  'Jonathan Maderer',
+  'Audiences who loved 'Quiet American, The (2002)' will likely appreciate the tone of 'Seven Days in May (1964)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  6291,  -- Lilya 4-Ever (Lilja 4-ever) (2002)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  10,
+  'Jonathan Maderer',
+  'Masterclass in storytelling with overlapping themes of redemption',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8601,  -- Zero de conduite (Zero for Conduct) (Zéro de conduite: Jeunes diables au collège) (1933)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  8,
+  'Jonathan Maderer',
+  'Masterclass in storytelling with overlapping themes of redemption',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1167,  -- Dear God (1996)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  10,
+  'Jonathan Maderer',
+  'Masterclass in storytelling with overlapping themes of redemption',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  162350,  -- The Magnificent Seven (2016)
+  81834,  -- Harry Potter and the Deathly Hallows: Part 1 (2010)
+  10,
+  'Jonathan Maderer',
+  'Both films feature protagonists on a journey of self-discovery',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  128736,  -- I'm Here (2010)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  10,
+  'Jonathan Maderer',
+  'Shared genre(s): Drama and explore similar emotional arcs',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2150,  -- Gods Must Be Crazy, The (1980)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  9,
+  'Jonathan Maderer',
+  ''Gods Must Be Crazy, The (1980)' and 'Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)' are cornerstones of modern comedy cinema',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  134041,  -- Afonya (1975)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  8,
+  'Jonathan Maderer',
+  'Masterclass in storytelling with overlapping themes of redemption',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  5615,  -- Invincible (2001)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  8,
+  'Jonathan Maderer',
+  'Audiences who loved 'Invincible (2001)' will likely appreciate the tone of 'Cruel Romance, A (Zhestokij Romans) (1984)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  167790,  -- The Good Boy (2016)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  9,
+  'Jonathan Maderer',
+  'Both deal with moral ambiguity and complex character development',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4772,  -- Dinner Rush (2000)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  9,
+  'Jonathan Maderer',
+  'Both films feature protagonists on a journey of self-discovery',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3235,  -- Where the Buffalo Roam (1980)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  8,
+  'Jonathan Maderer',
+  'Shared genre(s): Comedy and explore similar emotional arcs',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2843,  -- Black Cat, White Cat (Crna macka, beli macor) (1998)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  10,
+  'Jonathan Maderer',
+  'Critically praised for visual style and narrative innovation',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  95761,  -- Killer Joe (2011)
+  3634,  -- Seven Days in May (1964)
+  9,
+  'Jonathan Maderer',
+  'Masterclass in storytelling with overlapping themes of redemption',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  5292,  -- Slap Shot (1977)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  9,
+  'Jonathan Maderer',
+  'Audiences who loved 'Slap Shot (1977)' will likely appreciate the tone of 'Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  910,  -- Some Like It Hot (1959)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  9,
+  'Jonathan Maderer',
+  'Both deal with moral ambiguity and complex character development',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  90531,  -- Shame (2011)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  9,
+  'Jonathan Maderer',
+  'Shared genre(s): Drama and explore similar emotional arcs',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1350,  -- Omen, The (1976)
+  3634,  -- Seven Days in May (1964)
+  10,
+  'Jonathan Maderer',
+  'Excellent pairing for fans of genre-bending Thriller cinema',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1196,  -- Star Wars: Episode V - The Empire Strikes Back (1980)
+  81834,  -- Harry Potter and the Deathly Hallows: Part 1 (2010)
+  8,
+  'Jonathan Maderer',
+  'Audiences who loved 'Star Wars: Episode V - The Empire Strikes Back (1980)' will likely appreciate the tone of 'Harry Potter and the Deathly Hallows: Part 1 (2010)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  33779,  -- Eddie Izzard: Dress to Kill (1999)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  8,
+  'Jonathan Maderer',
+  'Critically praised for visual style and narrative innovation',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  147376,  -- Doctor Who: A Christmas Carol (2010)
+  68358,  -- Star Trek (2009)
+  8,
+  'Jonathan Maderer',
+  'Excellent pairing for fans of genre-bending Sci-Fi cinema',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  119153,  -- Bill Burr: You People Are All the Same (2012)
+  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  8,
+  'Jonathan Maderer',
+  'Masterclass in storytelling with overlapping themes of redemption',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  5365,  -- Lady and the Duke, The (Anglaise et le duc, L') (2001)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  9,
+  'Jonathan Maderer',
+  ''Lady and the Duke, The (Anglaise et le duc, L') (2001)' and 'Cruel Romance, A (Zhestokij Romans) (1984)' are cornerstones of modern romance, drama cinema',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4152,  -- Vatel (2000)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  9,
+  'Jonathan Maderer',
+  'Both deal with moral ambiguity and complex character development',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2925,  -- Conformist, The (Conformista, Il) (1970)
+  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  10,
+  'Jonathan Maderer',
+  'Shared genre(s): Drama and explore similar emotional arcs',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  37386,  -- Aeon Flux (2005)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  ''Aeon Flux (2005)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2394,  -- Prince of Egypt, The (1998)
+  89030,  -- Fright Night (2011)
+  6,
+  'Jonathan Maderer',
+  ''Fright Night (2011)' riffs on genre tropes that 'Prince of Egypt, The (1998)' helped define',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  79702,  -- Scott Pilgrim vs. the World (2010)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  'While 'Scott Pilgrim vs. the World (2010)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  32589,  -- Beauty Shop (2005)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  ''Beauty Shop (2005)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  26133,  -- Charlie Brown Christmas, A (1965)
+  89030,  -- Fright Night (2011)
+  3,
+  'Jonathan Maderer',
+  ''Charlie Brown Christmas, A (1965)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  35957,  -- Red Eye (2005)
+  89030,  -- Fright Night (2011)
+  7,
+  'Jonathan Maderer',
+  'Different eras, tones, and audiences — yet an interesting double feature',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  523,  -- Ruby in Paradise (1993)
+  89030,  -- Fright Night (2011)
+  7,
+  'Jonathan Maderer',
+  ''Fright Night (2011)' riffs on genre tropes that 'Ruby in Paradise (1993)' helped define',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  127114,  -- The End of the Tour (2015)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'Shared cast member, but vastly different tone and execution',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  133716,  -- Bootleggers (1961)
+  89030,  -- Fright Night (2011)
+  7,
+  'Jonathan Maderer',
+  'Different eras, tones, and audiences — yet an interesting double feature',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7811,  -- Babylon 5: The River of Souls (1998)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  ''Fright Night (2011)' riffs on genre tropes that 'Babylon 5: The River of Souls (1998)' helped define',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2322,  -- Soldier (1998)
+  89030,  -- Fright Night (2011)
+  8,
+  'Jonathan Maderer',
+  'Shared cast member, but vastly different tone and execution',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  26965,  -- Boxer, The (1997)
+  89030,  -- Fright Night (2011)
+  7,
+  'Jonathan Maderer',
+  ''Boxer, The (1997)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3675,  -- White Christmas (1954)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  'Shared cast member, but vastly different tone and execution',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  127096,  -- Project Almanac (2015)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'While 'Project Almanac (2015)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  77688,  -- Three Men and a Cradle (3 hommes et un couffin) (1985)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  'Different eras, tones, and audiences — yet an interesting double feature',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  53993,  -- Evan Almighty (2007)
+  89030,  -- Fright Night (2011)
+  8,
+  'Jonathan Maderer',
+  'Different eras, tones, and audiences — yet an interesting double feature',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1458,  -- Touch (1997)
+  89030,  -- Fright Night (2011)
+  8,
+  'Jonathan Maderer',
+  'Different eras, tones, and audiences — yet an interesting double feature',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  88129,  -- Drive (2011)
+  89030,  -- Fright Night (2011)
+  3,
+  'Jonathan Maderer',
+  ''Drive (2011)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  881,  -- First Kid (1996)
+  89030,  -- Fright Night (2011)
+  6,
+  'Jonathan Maderer',
+  ''First Kid (1996)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1260,  -- M (1931)
+  89030,  -- Fright Night (2011)
+  8,
+  'Jonathan Maderer',
+  'While 'M (1931)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3060,  -- Commitments, The (1991)
+  89030,  -- Fright Night (2011)
+  6,
+  'Jonathan Maderer',
+  ''Commitments, The (1991)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2142,  -- American Tail: Fievel Goes West, An (1991)
+  89030,  -- Fright Night (2011)
+  6,
+  'Jonathan Maderer',
+  ''American Tail: Fievel Goes West, An (1991)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2351,  -- Nights of Cabiria (Notti di Cabiria, Le) (1957)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  ''Nights of Cabiria (Notti di Cabiria, Le) (1957)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  6217,  -- Safety of Objects, The (2001)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  'Shared cast member, but vastly different tone and execution',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  72395,  -- Precious (2009)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  ''Precious (2009)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8481,  -- Northwest Passage (1940)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  79057,  -- Predators (2010)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'Similar themes approached from entirely opposite genres',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3089,  -- Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948)
+  89030,  -- Fright Night (2011)
+  6,
+  'Jonathan Maderer',
+  'Similar themes approached from entirely opposite genres',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2398,  -- Miracle on 34th Street (1947)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8870,  -- Forgotten, The (2004)
+  89030,  -- Fright Night (2011)
+  7,
+  'Jonathan Maderer',
+  ''Forgotten, The (2004)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  171695,  -- Robin Williams: Live on Broadway (2002)
+  89030,  -- Fright Night (2011)
+  7,
+  'Jonathan Maderer',
+  ''Robin Williams: Live on Broadway (2002)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  130052,  -- Clown (2014)
+  89030,  -- Fright Night (2011)
+  8,
+  'Jonathan Maderer',
+  ''Clown (2014)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  95839,  -- Christmas Carol, A (1999)
+  89030,  -- Fright Night (2011)
+  7,
+  'Jonathan Maderer',
+  ''Fright Night (2011)' riffs on genre tropes that 'Christmas Carol, A (1999)' helped define',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4447,  -- Legally Blonde (2001)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'Similar themes approached from entirely opposite genres',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  73501,  -- Pekka ja Pätkä Suezilla (1958)
+  89030,  -- Fright Night (2011)
+  7,
+  'Jonathan Maderer',
+  'While 'Pekka ja Pätkä Suezilla (1958)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  111921,  -- The Fault in Our Stars (2014)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  ''The Fault in Our Stars (2014)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8730,  -- To End All Wars (2001)
+  89030,  -- Fright Night (2011)
+  8,
+  'Jonathan Maderer',
+  'Shared cast member, but vastly different tone and execution',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4276,  -- Lost in America (1985)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  50354,  -- The Return of Don Camillo (1953)
+  89030,  -- Fright Night (2011)
+  6,
+  'Jonathan Maderer',
+  'Shared cast member, but vastly different tone and execution',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  73431,  -- Maiden Heist, The (2009)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  'Different eras, tones, and audiences — yet an interesting double feature',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4458,  -- Africa: The Serengeti (1994)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  ''Africa: The Serengeti (1994)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  40815,  -- Harry Potter and the Goblet of Fire (2005)
+  89030,  -- Fright Night (2011)
+  3,
+  'Jonathan Maderer',
+  ''Harry Potter and the Goblet of Fire (2005)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2967,  -- Bad Seed, The (1956)
+  89030,  -- Fright Night (2011)
+  3,
+  'Jonathan Maderer',
+  'Different eras, tones, and audiences — yet an interesting double feature',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  165947,  -- The True Memoirs of an International Assassin (2016)
+  89030,  -- Fright Night (2011)
+  6,
+  'Jonathan Maderer',
+  ''Fright Night (2011)' riffs on genre tropes that 'The True Memoirs of an International Assassin (2016)' helped define',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  116799,  -- Inherent Vice (2014)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  106,  -- Nobody Loves Me (Keiner liebt mich) (1994)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'Similar themes approached from entirely opposite genres',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2882,  -- Jakob the Liar (1999)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  'Shared cast member, but vastly different tone and execution',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  5876,  -- Quiet American, The (2002)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4042,  -- Alamo, The (1960)
+  89030,  -- Fright Night (2011)
+  3,
+  'Jonathan Maderer',
+  ''Alamo, The (1960)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  6291,  -- Lilya 4-Ever (Lilja 4-ever) (2002)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  ''Lilya 4-Ever (Lilja 4-ever) (2002)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8601,  -- Zero de conduite (Zero for Conduct) (Zéro de conduite: Jeunes diables au collège) (1933)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  ''Zero de conduite (Zero for Conduct) (Zéro de conduite: Jeunes diables au collège) (1933)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1167,  -- Dear God (1996)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  ''Dear God (1996)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  162350,  -- The Magnificent Seven (2016)
+  89030,  -- Fright Night (2011)
+  8,
+  'Jonathan Maderer',
+  ''The Magnificent Seven (2016)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1973,  -- Freddy's Dead: The Final Nightmare (Nightmare on Elm Street Part 6: Freddy's Dead, A) (1991)
+  89030,  -- Fright Night (2011)
+  7,
+  'Jonathan Maderer',
+  'Shared cast member, but vastly different tone and execution',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  128736,  -- I'm Here (2010)
+  89030,  -- Fright Night (2011)
+  7,
+  'Jonathan Maderer',
+  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1876,  -- Deep Impact (1998)
+  89030,  -- Fright Night (2011)
+  6,
+  'Jonathan Maderer',
+  'Similar themes approached from entirely opposite genres',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2150,  -- Gods Must Be Crazy, The (1980)
+  89030,  -- Fright Night (2011)
+  6,
+  'Jonathan Maderer',
+  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  134041,  -- Afonya (1975)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  5615,  -- Invincible (2001)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  ''Invincible (2001)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7624,  -- School Ties (1992)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  ''School Ties (1992)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  167790,  -- The Good Boy (2016)
+  89030,  -- Fright Night (2011)
+  3,
+  'Jonathan Maderer',
+  ''The Good Boy (2016)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4772,  -- Dinner Rush (2000)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  ''Fright Night (2011)' riffs on genre tropes that 'Dinner Rush (2000)' helped define',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4962,  -- Texas Rangers (2001)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  ''Fright Night (2011)' riffs on genre tropes that 'Texas Rangers (2001)' helped define',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  33145,  -- Lot Like Love, A (2005)
+  89030,  -- Fright Night (2011)
+  8,
+  'Jonathan Maderer',
+  ''Lot Like Love, A (2005)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  106062,  -- Jackass Presents: Bad Grandpa (2013)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'Similar themes approached from entirely opposite genres',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3898,  -- Bait (2000)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  'Different eras, tones, and audiences — yet an interesting double feature',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  38583,  -- Wraith, The (1986)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  ''Wraith, The (1986)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2328,  -- Vampires (1998)
+  89030,  -- Fright Night (2011)
+  6,
+  'Jonathan Maderer',
+  'While 'Vampires (1998)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1826,  -- Barney's Great Adventure (1998)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  'While 'Barney's Great Adventure (1998)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3235,  -- Where the Buffalo Roam (1980)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'Shared cast member, but vastly different tone and execution',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  737,  -- Barb Wire (1996)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  ''Barb Wire (1996)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2843,  -- Black Cat, White Cat (Crna macka, beli macor) (1998)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  ''Black Cat, White Cat (Crna macka, beli macor) (1998)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  95761,  -- Killer Joe (2011)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  366,  -- Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)
+  89030,  -- Fright Night (2011)
+  6,
+  'Jonathan Maderer',
+  'While 'Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  27618,  -- Sound of Thunder, A (2005)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'While 'Sound of Thunder, A (2005)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2354,  -- Rugrats Movie, The (1998)
+  89030,  -- Fright Night (2011)
+  3,
+  'Jonathan Maderer',
+  'Shared cast member, but vastly different tone and execution',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  31123,  -- Ruby & Quentin (Tais-toi!) (2003)
+  89030,  -- Fright Night (2011)
+  7,
+  'Jonathan Maderer',
+  ''Fright Night (2011)' riffs on genre tropes that 'Ruby & Quentin (Tais-toi!) (2003)' helped define',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  5292,  -- Slap Shot (1977)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  ''Slap Shot (1977)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  27124,  -- Bleeder (1999)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'Similar themes approached from entirely opposite genres',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  910,  -- Some Like It Hot (1959)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  'While 'Some Like It Hot (1959)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  87876,  -- Cars 2 (2011)
+  89030,  -- Fright Night (2011)
+  3,
+  'Jonathan Maderer',
+  ''Cars 2 (2011)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  90531,  -- Shame (2011)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  'Different eras, tones, and audiences — yet an interesting double feature',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4310,  -- Pearl Harbor (2001)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  'Similar themes approached from entirely opposite genres',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1350,  -- Omen, The (1976)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  ''Fright Night (2011)' riffs on genre tropes that 'Omen, The (1976)' helped define',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1590,  -- Event Horizon (1997)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  ''Event Horizon (1997)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1196,  -- Star Wars: Episode V - The Empire Strikes Back (1980)
+  89030,  -- Fright Night (2011)
+  8,
+  'Jonathan Maderer',
+  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  33779,  -- Eddie Izzard: Dress to Kill (1999)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  147376,  -- Doctor Who: A Christmas Carol (2010)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'Shared cast member, but vastly different tone and execution',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  92,  -- Mary Reilly (1996)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  'Similar themes approached from entirely opposite genres',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  119153,  -- Bill Burr: You People Are All the Same (2012)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  5454,  -- Mo' Money (1992)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  ''Mo' Money (1992)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  166461,  -- Moana (2016)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  'While 'Moana (2016)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3770,  -- Dreamscape (1984)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  ''Dreamscape (1984)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  205,  -- Unstrung Heroes (1995)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  ''Fright Night (2011)' riffs on genre tropes that 'Unstrung Heroes (1995)' helped define',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  5365,  -- Lady and the Duke, The (Anglaise et le duc, L') (2001)
+  89030,  -- Fright Night (2011)
+  7,
+  'Jonathan Maderer',
+  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4152,  -- Vatel (2000)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  ''Vatel (2000)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  171759,  -- The Beguiled (2017)
+  89030,  -- Fright Night (2011)
+  8,
+  'Jonathan Maderer',
+  ''The Beguiled (2017)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2925,  -- Conformist, The (Conformista, Il) (1970)
+  89030,  -- Fright Night (2011)
+  2,
+  'Jonathan Maderer',
+  'Similar themes approached from entirely opposite genres',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4678,  -- UHF (1989)
+  89030,  -- Fright Night (2011)
+  5,
+  'Jonathan Maderer',
+  'Similar themes approached from entirely opposite genres',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  2668,  -- Swamp Thing (1982)
+  89030,  -- Fright Night (2011)
+  4,
+  'Jonathan Maderer',
+  'While 'Swamp Thing (1982)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  NULL
+);
