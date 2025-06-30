@@ -1,16 +1,3 @@
-drop table if exists imdb_ijs.movies_recommendations;
-CREATE TABLE imdb_ijs.movies_recommendations (
-  movie_id_a INT NOT NULL,
-  movie_id_b INT NOT NULL,
-  recommendation_level INT NOT NULL,  -- From 1 (bad) to 10 (great)
-  author VARCHAR(100) NOT NULL,       -- Recommender name, e.g., 'Snir Kril'
-  justification TEXT,                 -- Reason for the recommendation
-  comment TEXT,                       -- Optional comment
-  PRIMARY KEY (movie_id_a, movie_id_b),
-  FOREIGN KEY (movie_id_a) REFERENCES imdb_ijs.movies(id),
-  FOREIGN KEY (movie_id_b) REFERENCES imdb_ijs.movies(id)
-);
-
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (7341  -- Aerosmith: Big Ones You Can Look at
 , 10945  -- Alien
