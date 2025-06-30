@@ -81,20 +81,18 @@ police as (
   select 245943 as movie_id
   union select 115269
   union select 121019
-  union select 319560
-  union select 338674
-  union select 338708
-  union select 152603
   union select 184793
-  union select 348599
-  union select 298129
+  union select 179428
+  union select 373371
+  union select 181357
+  union select 341228
 )
 select 
   b.movie_id, 
   r.movie_id, 
   3, 
   'YUVAL', 
-  'Both "police" role movies', 
+  'Both "police" role movies are in different genres', 
   null
 from 
 police as b,
@@ -102,32 +100,28 @@ police as r
 where 
   b.movie_id != r.movie_id;
 
+
+
 insert into imdb_ijs.movies_recommendations
 with
-Romance as (
-  select 14 as movie_id
-  union select 95
-  union select 152
-  union select 166
-  union select 184
-  union select 263
-  union select 264
-  union select 270
-  union select 283
-  union select 302
+different as (
+  select 6 as movie_id
+  union select 73
+  union select 15
+  union select 24
+  union select 31
+  union select 87
+  union select 18
 )
 select 
   b.movie_id, 
   r.movie_id, 
-  4, 
+  1, 
   'YUVAL', 
-  'Both "Romance" genre movies', 
-  null
+  'Both are movies from the database', 
+  'different year, different genr,e and different rank'
 from 
-Romance as b,
-Romance as r
+different as b,
+different as r
 where 
   b.movie_id != r.movie_id;
-select * from imdb_ijs.movies_recommendations;
-
-
