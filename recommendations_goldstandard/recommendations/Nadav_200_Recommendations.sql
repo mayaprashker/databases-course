@@ -1577,242 +1577,243 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30952 -- Batman & Robin
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30953 -- Batman & Robin
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30954 -- Batman (1966/I)
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30956 -- Batman (1989/II)
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30957 -- Batman and Robin
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30958 -- Batman and Robin
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30959 -- Batman Begins
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30960 -- Batman Beyond
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30961 -- Batman Beyond: Return of the Joker (2000/I)
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30962 -- Batman Beyond: The Movie
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30963 -- Batman Dracula
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30964 -- Batman Fights Dracula
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30965 -- Batman Forever
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30966 -- Batman Forever: The Arcade Game
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30967 -- Batman Returns
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30968 -- Batman Returns (1992/II)
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30969 -- Batman, The
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30970 -- Batman/Superman Movie, The
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30971 -- Batman: Chaos in Gotham
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30972 -- Batman: Dark Justice
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30973 -- Batman: Dark Tomorrow
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30974 -- Batman: Dead End
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30975 -- Batman: Gotham Racer
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30976 -- Batman: Mask of the Phantasm
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30977 -- Batman: Mystery of the Batwoman
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30978 -- Batman: Rise of Sin Tzu
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30979 -- Batman: Vengeance
-, 4
+, 3
 , 'Nadav Halpern'
-, 'If some one liked harry potter series, he might like the batman series'
+, 'Hogwarts’ magic and Gotham’s darkness rarely mix.'
 , NULL
 );
+
