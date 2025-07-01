@@ -1577,7 +1577,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30952 -- Batman & Robin
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1586,7 +1586,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30953 -- Batman & Robin
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1595,7 +1595,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30954 -- Batman (1966/I)
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1604,7 +1604,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30956 -- Batman (1989/II)
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1613,7 +1613,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30957 -- Batman and Robin
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1622,7 +1622,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30958 -- Batman and Robin
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1631,7 +1631,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30959 -- Batman Begins
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1640,7 +1640,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30960 -- Batman Beyond
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1649,7 +1649,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30961 -- Batman Beyond: Return of the Joker (2000/I)
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1658,7 +1658,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30962 -- Batman Beyond: The Movie
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1667,7 +1667,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30963 -- Batman Dracula
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1676,7 +1676,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30964 -- Batman Fights Dracula
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1685,7 +1685,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30965 -- Batman Forever
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1694,7 +1694,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30966 -- Batman Forever: The Arcade Game
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1703,7 +1703,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30967 -- Batman Returns
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1712,7 +1712,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30968 -- Batman Returns (1992/II)
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1721,7 +1721,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30969 -- Batman, The
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1730,7 +1730,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30970 -- Batman/Superman Movie, The
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1739,7 +1739,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30971 -- Batman: Chaos in Gotham
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1748,7 +1748,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30972 -- Batman: Dark Justice
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1757,7 +1757,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30973 -- Batman: Dark Tomorrow
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1766,7 +1766,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30974 -- Batman: Dead End
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1775,7 +1775,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30975 -- Batman: Gotham Racer
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1784,7 +1784,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30976 -- Batman: Mask of the Phantasm
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1793,7 +1793,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30977 -- Batman: Mystery of the Batwoman
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1802,7 +1802,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30978 -- Batman: Rise of Sin Tzu
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
@@ -1811,7 +1811,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (
   139657 -- Harry Potter and the Sorcerer's Stone
 , 30979 -- Batman: Vengeance
-, 2
+, 4
 , 'Nadav Halpern'
 , 'If some one liked harry potter series, he might like the batman series'
 , NULL
