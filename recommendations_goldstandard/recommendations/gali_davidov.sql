@@ -24,7 +24,7 @@ from
   Crime_Movies as c1,
   Crime_Movies as c2
 where 
-  c1.movie_id < c2.movie_id;  -- 🔹 avoids duplicate/reverse pairs
+  c1.movie_id != c2.movie_id;  
   
   insert into imdb_ijs.movies_recommendations
 
@@ -52,7 +52,7 @@ from
   Doctors_Movies as d1,
   Doctors_Movies as d2
 where 
-  d1.movie_id < d2.movie_id;
+  d1.movie_id != d2.movie_id;
 
 
 
