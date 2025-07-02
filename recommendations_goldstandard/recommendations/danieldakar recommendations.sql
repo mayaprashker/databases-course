@@ -1440,162 +1440,162 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855   -- 6,000 Miles from Hollywood
-, 61639  -- Child's Play
+(313464   -- Star Wars Rogue Leader: Rogue Squadron 2
+, 139650  -- Harry Potter and the Chamber of Secrets
 , 2
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855   -- 6,000 Miles from Hollywood
-, 62091  -- Chinatown Nights
+(313464   -- Star Wars Rogue Leader: Rogue Squadron 2
+, 139651  -- Harry Potter and the Chamber of Secrets (2002/II)
 , 2
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 64955  -- Cit foudroye, La
+(313464   -- Star Wars Rogue Leader: Rogue Squadron 2
+, 139652  -- Harry Potter and the Goblet of Fire
 , 2
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 66968  -- Cold Sun, The
-, 2
+(313464   -- Star Wars Rogue Leader: Rogue Squadron 2
+, 139653  -- Harry Potter and the Half-Blood Prince
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 67470  -- Colossus of New York, The
-, 2
+(313464   -- Star Wars Rogue Leader: Rogue Squadron 2
+, 139654  -- Harry Potter and the Order of the Phoenix
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 69689  -- Conquest of Space
-, 2
+(313464   -- Star Wars Rogue Leader: Rogue Squadron 2
+, 139655  -- Harry Potter and the Prisoner of Azkaban
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 69730  -- Conquete du ple, La
-, 2
+(313464   -- Star Wars Rogue Leader: Rogue Squadron 2
+, 139656  -- Harry Potter and the Prisoner of Azkaban (2004/II)
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 70967  -- Corpse Vanishes, The
-, 2
+(313464   -- Star Wars Rogue Leader: Rogue Squadron 2
+, 139658  -- Harry Potter and the Sorcerer's Stone (2001/II)
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 71315  -- Cosmic Man, The
-, 2
+(313464   -- Star Wars Rogue Leader: Rogue Squadron 2
+, 139657  -- Harry Potter and the Sorcerer's Stone
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 72582  -- Crash of Moons
-, 2
+(313464   -- Star Wars Rogue Leader: Rogue Squadron 2
+, 139660  -- Harry Potter: Behind the Magic
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 72863  -- Creature from the Black Lagoon
-, 2
+(313464   -- Star Wars Rogue Leader: Rogue Squadron 2
+, 139661  -- Harry Potter: Quidditch World Cup
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 72864  -- Creature Walks Among Us, The
-, 2
+(313464   -- Star Wars Rogue Leader: Rogue Squadron 2
+, 139662  -- Harry Potter: Witchcraft Repackaged
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 72875  -- Creature with the Atom Brain
-, 2
+(313464   -- Star Wars Rogue Leader: Rogue Squadron 2
+, 164234  -- J.K. Rowling: Harry Potter and Me
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 73628  -- Croisieres sidrales
-, 2
+(313465    -- Star Wars Rogue Squadron III: Rebel Strike
+, 73628  -- Harry Potter and the Chamber of Secrets
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 74790  -- Cue and Mis-Cue
-, 2
+(313465    -- Star Wars Rogue Squadron III: Rebel Strike
+, 139651  -- Harry Potter and the Chamber of Secrets (2002/II)
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 75515  -- Curse of Frankenstein, The
-, 2
+(313465    -- Star Wars Rogue Squadron III: Rebel Strike
+, 139652  -- Harry Potter and the Goblet of Fire
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 75865  -- Cyclops, The
-, 2
+(313465    -- Star Wars Rogue Squadron III: Rebel Strike
+, 139653  -- Harry Potter and the Half-Blood Prince
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 76896  -- Daikai Baran
-, 2
+(313465    -- Star Wars Rogue Squadron III: Rebel Strike
+, 139654  -- Harry Potter and the Order of the Phoenix
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 79352  -- Daughter of Dr. Jekyll
-, 2
+(313465    -- Star Wars Rogue Squadron III: Rebel Strike
+, 139655  -- Harry Potter and the Prisoner of Azkaban
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-(2855    -- 6,000 Miles from Hollywood
-, 79897  -- Day the Earth Stood Still, The
-, 2
+(313465    -- Star Wars Rogue Squadron III: Rebel Strike
+, 139657  -- Harry Potter and the Sorcerer's Stone
+, 5
 , 'Daniel Michael Dakar'
-, 'genre mismatch (drama vs. Sci-Fi) and more than 40 years'
+, 'people who likes star wars series doesnt like harry potter series'
 , NULL
 );
