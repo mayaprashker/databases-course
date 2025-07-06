@@ -1,0 +1,221 @@
+INSERT INTO movies_recommendations (id1, id2, score, created_by, justification) VALUES
+-- bad
+('164412', '33050', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Jack Black: Spider-Man -> Behind the Scenes: Spider-Man the Movie
+('33050', '164412', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Behind the Scenes: Spider-Man the Movie -> Jack Black: Spider-Man
+('164412', '311047', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Jack Black: Spider-Man -> Spider-Man: The Dragon’s Challenge
+('311047', '164412', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Spider-Man: The Dragon’s Challenge -> Jack Black: Spider-Man
+('164412', '311048', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Jack Black: Spider-Man -> Spider-Man: The Movie Game
+('311048', '164412', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Spider-Man: The Movie Game -> Jack Black: Spider-Man
+('33050', '311047', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Behind the Scenes -> The Dragon’s Challenge
+('311047', '33050', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- The Dragon’s Challenge -> Behind the Scenes
+
+('33050', '311048', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Behind the Scenes -> The Movie Game
+('311048', '33050', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- The Movie Game -> Behind the Scenes
+
+('311047', '311048', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- The Dragon’s Challenge -> The Movie Game
+('311048', '311047', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- The Movie Game -> The Dragon’s Challenge
+
+('164412', '311040', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Jack Black: Spider-Man -> Spider-Man 3
+('311040', '164412', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Spider-Man 3 -> Jack Black: Spider-Man
+
+('33050', '311040', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Behind the Scenes -> Spider-Man 3
+('311040', '33050', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Spider-Man 3 -> Behind the Scenes
+('311047', '311040', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- The Dragon’s Challenge -> Spider-Man 3
+('311040', '311047', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Spider-Man 3 -> The Dragon’s Challenge
+('311048', '311040', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- The Movie Game -> Spider-Man 3
+('311040', '311048', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Spider-Man 3 -> The Movie Game
+('267407', '164412', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Spider-Man -> Jack Black: Spider-Man
+('164412', '267407', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Jack Black: Spider-Man -> Spider-Man
+('267408', '33050', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Spider-Man 2 -> Behind the Scenes
+('33050', '267408', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Behind the Scenes -> Spider-Man 2
+('267407', '311048', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Spider-Man -> The Movie Game
+('311048', '267407', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- The Movie Game -> Spider-Man
+('267407', '33050', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Spider-Man -> Behind the Scenes
+('33050', '267407', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Behind the Scenes -> Spider-Man
+('267408', '311048', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Spider-Man 2 -> The Movie Game
+('311048', '267408', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- The Movie Game -> Spider-Man 2
+('267407', '311047', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Spider-Man -> The Dragon’s Challenge
+('311047', '267407', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- The Dragon’s Challenge -> Spider-Man
+('267408', '164412', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Spider-Man 2 -> Jack Black: Spider-Man
+('164412', '267408', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Jack Black: Spider-Man -> Spider-Man 2
+('1759', '1787', 3, 'Yarden safran', 'same 4 year span'), -- 2046 -> 21 Grams
+('1787', '1759', 3, 'Yarden safran', 'same 4 year span'), -- 21 Grams -> 2046
+('1759', '1847', 3, 'Yarden safran', 'same 4 year span'), -- 2046 -> 24
+('1847', '1759', 3, 'Yarden safran', 'same 4 year span'), -- 24 -> 2046
+('1787', '1847', 3, 'Yarden safran', 'same 4 year span'), -- 21 Grams -> 24
+('1847', '1787', 3, 'Yarden safran', 'same 4 year span'), -- 24 -> 21 Grams
+
+('1759', '30959', 3, 'Yarden safran', 'same 4 year span'), -- 2046 -> Batman Begins
+('30959', '1759', 3, 'Yarden safran', 'same 4 year span'), -- Batman Begins -> 2046
+('1787', '30959', 3, 'Yarden safran', 'same 4 year span'), -- 21 Grams -> Batman Begins
+('30959', '1787', 3, 'Yarden safran', 'same 4 year span'), -- Batman Begins -> 21 Grams
+('1847', '30959', 3, 'Yarden safran', 'same 4 year span'), -- 24 -> Batman Begins
+('30959', '1847', 3, 'Yarden safran', 'same 4 year span'), -- Batman Begins -> 24
+
+('1759', '194500', 3, 'Yarden safran', 'same 4 year span'), -- 2046 -> The Return of the King
+('194500', '1759', 3, 'Yarden safran', 'same 4 year span'), -- The Return of the King -> 2046
+('1759', '194502', 3, 'Yarden safran', 'same 4 year span'), -- 2046 -> The Two Towers
+('194502', '1759', 3, 'Yarden safran', 'same 4 year span'), -- The Two Towers -> 2046
+('1787', '194500', 3, 'Yarden safran', 'same 4 year span'), -- 21 Grams -> The Return of the King
+('194500', '1787', 3, 'Yarden safran', 'same 4 year span'), -- The Return of the King -> 21 Grams
+('1787', '194502', 3, 'Yarden safran', 'same 4 year span'), -- 21 Grams -> The Two Towers
+('194502', '1787', 3, 'Yarden safran', 'same 4 year span'), -- The Two Towers -> 21 Grams
+('1847', '194500', 3, 'Yarden safran', 'same 4 year span'), -- 24 -> The Return of the King
+('194500', '1847', 3, 'Yarden safran', 'same 4 year span'), -- The Return of the King -> 24
+('1847', '194502', 3, 'Yarden safran', 'same 4 year span'), -- 24 -> The Two Towers
+('194502', '1847', 3, 'Yarden safran', 'same 4 year span'), -- The Two Towers -> 24
+
+
+('313474', '269552', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- The Phantom Menace -> Star Wars by Quentin Tarantino
+('269552', '313474', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Star Wars by Quentin Tarantino -> The Phantom Menace
+
+('313474', '313463', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- The Phantom Menace -> The Star Wars Holiday Special
+('313463', '313474', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- The Star Wars Holiday Special -> The Phantom Menace
+
+('313474', '218226', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- The Phantom Menace -> Monopoly Star Wars
+('218226', '313474', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Monopoly Star Wars -> The Phantom Menace
+
+('313474', '313799', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- The Phantom Menace -> Stars of Star Wars: The Interview Show
+('313799', '313474', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Stars of Star Wars: The Interview Show -> The Phantom Menace
+
+('313476', '269552', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Attack of the Clones -> Star Wars by Quentin Tarantino
+('269552', '313476', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Star Wars by Quentin Tarantino -> Attack of the Clones
+
+('313476', '313463', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Attack of the Clones -> The Star Wars Holiday Special
+('313463', '313476', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- The Star Wars Holiday Special -> Attack of the Clones
+
+('313476', '218226', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Attack of the Clones -> Monopoly Star Wars
+('218226', '313476', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Monopoly Star Wars -> Attack of the Clones
+
+('313476', '313799', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Attack of the Clones -> Stars of Star Wars: The Interview Show
+('313799', '313476', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Stars of Star Wars: The Interview Show -> Attack of the Clones
+
+('313478', '269552', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- The Empire Strikes Back -> Star Wars by Quentin Tarantino
+('269552', '313478', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Star Wars by Quentin Tarantino -> The Empire Strikes Back
+
+('313478', '313463', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- The Empire Strikes Back -> The Star Wars Holiday Special
+('313463', '313478', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- The Star Wars Holiday Special -> The Empire Strikes Back
+
+('313478', '218226', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- The Empire Strikes Back -> Monopoly Star Wars
+('218226', '313478', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Monopoly Star Wars -> The Empire Strikes Back
+
+('313478', '313799', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- The Empire Strikes Back -> Stars of Star Wars: The Interview Show
+('313799', '313478', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Stars of Star Wars: The Interview Show -> The Empire Strikes Back
+
+('313479', '269552', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Return of the Jedi -> Star Wars by Quentin Tarantino
+('269552', '313479', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Star Wars by Quentin Tarantino -> Return of the Jedi
+
+('313479', '313463', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Return of the Jedi -> The Star Wars Holiday Special
+('313463', '313479', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- The Star Wars Holiday Special -> Return of the Jedi
+
+('313479', '218226', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Return of the Jedi -> Monopoly Star Wars
+('218226', '313479', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Monopoly Star Wars -> Return of the Jedi
+
+('313479', '313799', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Return of the Jedi -> Stars of Star Wars: The Interview Show
+('313799', '313479', 5, 'Yarden Safran', 'STAR WARS-COMBINATIONS OF THE ACTUAL SERIES AND OTHER MOVIES'), -- Stars of Star Wars: The Interview Show -> Return of the Jedi
+
+-- good:
+('49854', '41518', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Buried Secret of M. Night Shyamalan, The -> Blow
+('70959', '49854', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Corpse Bride, The -> Buried Secret of M. Night Shyamalan, The
+('49854', '70959', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Buried Secret of M. Night Shyamalan, The -> Corpse Bride, The
+('46167', '41518', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Brave, The -> Blow
+('41518', '46167', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Blow -> Brave, The
+('46167', '22651', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Brave, The -> Astronaut's Wife, The
+('22651', '46167', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Astronaut's Wife, The -> Brave, The
+('70959', '49854', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Corpse Bride, The -> Buried Secret of M. Night Shyamalan, The
+('49854', '41518', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Buried Secret of M. Night Shyamalan, The -> Blow
+('70959', '32707', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Corpse Bride, The -> Before Night Falls
+('59578', '32707', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Charlie and the Chocolate Factory -> Before Night Falls
+('22651', '59578', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Astronaut's Wife, The -> Charlie and the Chocolate Factory
+('70959', '46167', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Corpse Bride, The -> Brave, The
+('256631', '70959', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Pirates of the Caribbean 2 -> Corpse Bride, The
+('59578', '256631', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Charlie and the Chocolate Factory -> Pirates of the Caribbean 2
+('256631', '59578', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Pirates of the Caribbean 2 -> Charlie and the Chocolate Factory
+('70959', '256632', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Corpse Bride, The -> Pirates of the Caribbean: The Curse of the Black Pearl
+('256632', '70959', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Pirates of the Caribbean: The Curse of the Black Pearl -> Corpse Bride, The
+('59578', '256632', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Charlie and the Chocolate Factory -> Pirates of the Caribbean: The Curse of the Black Pearl
+('256632', '59578', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Pirates of the Caribbean: The Curse of the Black Pearl -> Charlie and the Chocolate Factory
+('256631', '256632', 10, 'Yarden safran', 'Johnny Depp – same genre'), -- Pirates of the Caribbean 2 -> Pirates of the Caribbean 1
+('256632', '256631', 10, 'Yarden safran', 'Johnny Depp – same genre'), -- Pirates of the Caribbean 1 -> Pirates of the Caribbean 2
+('70959', '59578', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Corpse Bride, The -> Charlie and the Chocolate Factory
+('59578', '70959', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Charlie and the Chocolate Factory -> Corpse Bride, The
+('41518', '20253', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Blow -> Arizona Dream
+('20253', '41518', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Arizona Dream -> Blow
+('32707', '22651', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Before Night Falls -> Astronaut's Wife, The
+('22651', '32707', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Astronaut's Wife, The -> Before Night Falls
+('46167', '32707', 10, 'Yarden safran', 'Johnny Depp – same genre'), -- Brave, The -> Before Night Falls
+('32707', '46167', 10, 'Yarden safran', 'Johnny Depp – same genre'), -- Before Night Falls -> Brave, The
+('49854', '22651', 10, 'Yarden safran', 'Johnny Depp – same genre'), -- Buried Secret of M. Night Shyamalan -> Astronaut's Wife, The
+('22651', '49854', 10, 'Yarden safran', 'Johnny Depp – same genre'), -- Astronaut's Wife, The -> Buried Secret of M. Night Shyamalan
+('53921', '34104', 10, 'Yarden safran', 'Johnny Depp – same genre'), -- Cannes Man -> Benny & Joon
+('34104', '53921', 10, 'Yarden safran', 'Johnny Depp – same genre'), -- Benny & Joon -> Cannes Man
+('53921', '20253', 10, 'Yarden safran', 'Johnny Depp – same genre'), -- Cannes Man -> Arizona Dream
+('20253', '53921', 10, 'Yarden safran', 'Johnny Depp – same genre'), -- Arizona Dream -> Cannes Man
+('34104', '20253', 10, 'Yarden safran', 'Johnny Depp – same genre'), -- Benny & Joon -> Arizona Dream
+('20253', '34104', 10, 'Yarden safran', 'Johnny Depp – same genre'), -- Arizona Dream -> Benny & Joon
+('210511', '160524', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Memento -> Insomnia
+('210511', '116556', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Memento -> Following
+('210511', '105697', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Memento -> Exec, The
+('210511', '90837', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Memento -> Doodlebug
+('210511', '64187', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Memento -> Cinema16
+('210511', '30959', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Memento -> Batman Begins
+('160524', '210511', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Insomnia -> Memento
+('160524', '116556', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Insomnia -> Following
+('160524', '105697', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Insomnia -> Exec, The
+('160524', '90837', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Insomnia -> Doodlebug
+('160524', '64187', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Insomnia -> Cinema16
+('160524', '30959', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Insomnia -> Batman Begins
+('116556', '210511', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Following -> Memento
+('116556', '160524', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Following -> Insomnia
+('116556', '105697', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Following -> Exec, The
+('116556', '90837', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Following -> Doodlebug
+('116556', '64187', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Following -> Cinema16
+('116556', '30959', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Following -> Batman Begins
+('105697', '210511', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Exec, The -> Memento
+('105697', '160524', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Exec, The -> Insomnia
+('105697', '116556', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Exec, The -> Following
+('105697', '90837', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Exec, The -> Doodlebug
+('105697', '64187', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Exec, The -> Cinema16
+('105697', '30959', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Exec, The -> Batman Begins
+('90837', '210511', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Doodlebug -> Memento
+('90837', '160524', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Doodlebug -> Insomnia
+('90837', '116556', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Doodlebug -> Following
+('90837', '105697', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Doodlebug -> Exec, The
+('90837', '64187', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Doodlebug -> Cinema16
+('90837', '30959', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Doodlebug -> Batman Begins
+('64187', '210511', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Cinema16 -> Memento
+('64187', '160524', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Cinema16 -> Insomnia
+('64187', '116556', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Cinema16 -> Following
+('64187', '105697', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Cinema16 -> Exec, The
+('64187', '90837', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Cinema16 -> Doodlebug
+('64187', '30959', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Cinema16 -> Batman Begins
+('30959', '210511', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Batman Begins -> Memento
+('30959', '160524', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Batman Begins -> Insomnia
+('30959', '116556', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Batman Begins -> Following
+('30959', '105697', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Batman Begins -> Exec, The
+('30959', '90837', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Batman Begins -> Doodlebug
+('30959', '64187', 8, 'Yarden safran', 'different genres, directed by Nolan'), -- Batman Begins -> Cinema16
+('30959', '30959', 10, 'Yarden safran', 'same genres, directed by Nolan'), -- Batman Begins -> Batman Begins (self-pair if included)
+('194502', '194500', 10, 'Yarden safran', 'same movie series'), -- The Two Towers -> The Return of the King
+('194500', '194502', 10, 'Yarden safran', 'same movie series'), -- The Return of the King -> The Two Towers
+('194502', '194497', 10, 'Yarden safran', 'same movie series'), -- The Two Towers -> The Fellowship of the Ring
+('194497', '194502', 10, 'Yarden safran', 'same movie series'), -- The Fellowship of the Ring -> The Two Towers
+('194500', '194497', 10, 'Yarden safran', 'same movie series'), -- The Return of the King -> The Fellowship of the Ring
+('194497', '194500', 10, 'Yarden safran', 'same movie series'), -- The Fellowship of the Ring -> The Return of the King
+('194497', '194497', 10, 'Yarden safran', 'same movie series'), -- The Fellowship of the Ring -> The Fellowship of the Ring (if included)
+('194500', '194500', 10, 'Yarden safran', 'same movie series'), -- The Return of the King -> The Return of the King (if included)
+('194502', '194502', 10, 'Yarden safran', 'same movie series'), -- The Two Towers -> The Two Towers (if included)
+('313476', '313477', 10, 'Yarden safran', 'star wars movies'), -- Star Wars: Episode II - Attack of the Clones → Star Wars: Episode III - Revenge of the Sith
+('313477', '313476', 10, 'Yarden safran', 'star wars movies'), -- Star Wars: Episode III - Revenge of the Sith → Star Wars: Episode II - Attack of the Clones
+('313476', '313478', 10, 'Yarden safran', 'star wars movies'), -- Star Wars: Episode II - Attack of the Clones → Star Wars: Episode V - The Empire Strikes Back
+('313478', '313476', 10, 'Yarden safran', 'star wars movies'), -- Star Wars: Episode V - The Empire Strikes Back → Star Wars: Episode II - Attack of the Clones
+('313476', '313479', 10, 'Yarden safran', 'star wars movies'), -- Star Wars: Episode II - Attack of the Clones → Star Wars: Episode VI - Return of the Jedi
+('313479', '313476', 10, 'Yarden safran', 'star wars movies'), -- Star Wars: Episode VI - Return of the Jedi → Star Wars: Episode II - Attack of the Clones
+('313477', '313478', 10, 'Yarden safran', 'star wars movies'), -- Star Wars: Episode III - Revenge of the Sith → Star Wars: Episode V - The Empire Strikes Back
+('313478', '313477', 10, 'Yarden safran', 'star wars movies'), -- Star Wars: Episode V - The Empire Strikes Back → Star Wars: Episode III - Revenge of the Sith
+('313477', '313479', 10, 'Yarden safran', 'star wars movies'), -- Star Wars: Episode III - Revenge of the Sith → Star Wars: Episode VI - Return of the Jedi
+('313479', '313477', 10, 'Yarden safran', 'star wars movies'), -- Star Wars: Episode VI - Return of the Jedi → Star Wars: Episode III - Revenge of the Sith
+('313478', '313479', 10, 'Yarden safran', 'star wars movies'), -- Star Wars: Episode V - The Empire Strikes Back → Star Wars: Episode VI - Return of the Jedi
+('313479', '313478', 10, 'Yarden safran', 'star wars movies'); -- Star Wars: Episode VI - Return of the Jedi → Star Wars: Episode V - The Empire Strikes Back
+
+
