@@ -19,7 +19,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 31715 -- Beaches
 , 114955 -- Lost Hearts
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -46,7 +46,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 31715 -- Beaches
 , 235615 -- Final Dance
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -64,7 +64,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 31715 -- Beaches
 , 245699 -- Golden Hour
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -118,7 +118,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 80969 -- Beaches II
 , 114955 -- Lost Hearts
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -145,7 +145,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 80969 -- Beaches II
 , 235615 -- Final Dance
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -163,7 +163,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 80969 -- Beaches II
 , 245699 -- Golden Hour
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -208,7 +208,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 105851 -- Another Story
 , 114955 -- Lost Hearts
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -235,7 +235,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 105851 -- Another Story
 , 235615 -- Final Dance
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -253,7 +253,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 105851 -- Another Story
 , 245699 -- Golden Hour
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -298,7 +298,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 46167 -- Brave, The
 , 70959 -- Corpse Bride, The
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -307,7 +307,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 70959 -- Corpse Bride, The
 , 46167 -- Brave, The
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -316,7 +316,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 22651 -- Astronauts Wife, The
 , 59578 -- Charlie and the Chocolate Factory
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -325,7 +325,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 59578 -- Charlie and the Chocolate Factory
 , 22651 -- Astronauts Wife, The
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -334,7 +334,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 32707 -- Before Night Falls
 , 59578 -- Charlie and the Chocolate Factory
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -343,7 +343,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 59578 -- Charlie and the Chocolate Factory
 , 32707 -- Before Night Falls
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -352,7 +352,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 32707 -- Before Night Falls
 , 70959 -- Corpse Bride, The
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -361,7 +361,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 70959 -- Corpse Bride, The
 , 32707 -- Before Night Falls
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -370,7 +370,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 49854 -- Buried Secret of M. Night Shyamalan, The
 , 41518 -- Blow
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -379,7 +379,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 41518 -- Blow
 , 49854 -- Buried Secret of M. Night Shyamalan, The
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -388,7 +388,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 49854 -- Buried Secret of M. Night Shyamalan, The
 , 70959 -- Corpse Bride, The
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -397,7 +397,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 70959 -- Corpse Bride, The
 , 49854 -- Buried Secret of M. Night Shyamalan, The
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -406,7 +406,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 22651 -- Astronauts Wife, The
 , 46167 -- Brave, The
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -415,7 +415,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 46167 -- Brave, The
 , 22651 -- Astronauts Wife, The
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -424,7 +424,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 41518 -- Blow
 , 46167 -- Brave, The
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -433,7 +433,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 46167 -- Brave, The
 , 41518 -- Blow
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -496,7 +496,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 256632 -- Pirates of the Caribbean: The Curse of the Black Pearl
 , 70959 -- Corpse Bride, The
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -505,7 +505,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 70959 -- Corpse Bride, The
 , 256632 -- Pirates of the Caribbean: The Curse of the Black Pearl
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -514,7 +514,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 256631 -- Pirates of the Caribbean 2: Dead Mans Chest
 , 59578 -- Charlie and the Chocolate Factory
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -523,7 +523,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 59578 -- Charlie and the Chocolate Factory
 , 256631 -- Pirates of the Caribbean 2: Dead Mans Chest
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -532,7 +532,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 256631 -- Pirates of the Caribbean 2: Dead Mans Chest
 , 70959 -- Corpse Bride, The
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -541,7 +541,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 70959 -- Corpse Bride, The
 , 256631 -- Pirates of the Caribbean 2: Dead Mans Chest
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'JOHNNY DEPP ACTS'
 , NULL
@@ -586,7 +586,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 214755 -- Minority Report
 , 259826 -- Poltergeist
-, 10
+, 7
 , 'Shelly Orenstein'
 , 'SAME DIRECTOR'
 , NULL
@@ -595,7 +595,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 314618 -- Steven Spielbergs Directors Chair
 , 342512 -- Twilight Zone: The Movie
-, 10
+, 7
 , 'Shelly Orenstein'
 , 'SAME DIRECTOR'
 , NULL
@@ -604,7 +604,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 1390 -- 1941
 , 399427 -- Night Gallery""
-, 10
+, 7
 , 'Shelly Orenstein'
 , 'SAME DIRECTOR'
 , NULL
@@ -613,7 +613,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 12744 -- Always
 , 231917 -- Night Gallery
-, 10
+, 7
 , 'Shelly Orenstein'
 , 'SAME DIRECTOR'
 , NULL
@@ -622,7 +622,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 1121 -- 1492: Conquest of Paradise
 , 10830 -- Alien
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -631,7 +631,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 1121 -- 1492: Conquest of Paradise
 , 11507 -- All the Invisible Children
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -667,7 +667,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 1121 -- 1492: Conquest of Paradise
 , 45476 -- Boy on a Bicycle
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -676,7 +676,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 1121 -- 1492: Conquest of Paradise
 , 64187 -- Cinema16
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -685,7 +685,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 1121 -- 1492: Conquest of Paradise
 , 129185 -- Gladiator
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -694,7 +694,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 1121 -- 1492: Conquest of Paradise
 , 308025 -- Someone to Watch Over Me
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -703,7 +703,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 10830 -- Alien
 , 11507 -- All the Invisible Children
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -739,7 +739,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 10830 -- Alien
 , 45476 -- Boy on a Bicycle
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -748,7 +748,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 10830 -- Alien
 , 64187 -- Cinema16
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -757,7 +757,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 10830 -- Alien
 , 129185 -- Gladiator
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -766,7 +766,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 10830 -- Alien
 , 308025 -- Someone to Watch Over Me
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -802,7 +802,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 11507 -- All the Invisible Children
 , 45476 -- Boy on a Bicycle
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -811,7 +811,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 11507 -- All the Invisible Children
 , 64187 -- Cinema16
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -820,7 +820,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 11507 -- All the Invisible Children
 , 129185 -- Gladiator
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -829,7 +829,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 11507 -- All the Invisible Children
 , 308025 -- Someone to Watch Over Me
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -838,7 +838,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 39551 -- Black Hawk Down
 , 39829 -- Black Rain
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
@@ -847,7 +847,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 39551 -- Black Hawk Down
 , 40199 -- Blade Runner
-, 9
+, 7
 , 'Shelly Orenstein'
 , 'same director & genre'
 , NULL
