@@ -126,7 +126,7 @@ CREATE TABLE imdb_ijs.tmp_movies (
   `director` int,
   CHECK (year>=1900),
   PRIMARY KEY (`id`),
-  KEY `movies_name` (`name`)
+  KEY `movies_index` (`name`)
 );
 
 insert into imdb_ijs.tmp_movies values(1, 'Superman', 2000, null, -100); # There is no director with id -100
@@ -143,7 +143,7 @@ CREATE TABLE imdb_ijs.tmp_movies (
   `director` int,
   CHECK (year>=1900),
   PRIMARY KEY (`id`),
-  KEY `movies_name` (`name`),
+  KEY `movies_index` (`name`),
   FOREIGN KEY (director) REFERENCES directors(id)
 );
 
@@ -162,7 +162,7 @@ CREATE TABLE imdb_ijs.tmp_movies (
   `directors` varchar(100),
   CHECK (year>=1900),
   PRIMARY KEY (`id`),
-  KEY `movies_name` (`name`)
+  KEY `movies_index` (`name`)
 );
 
 insert into imdb_ijs.tmp_movies values(1, 'Superman', 2000, null, "1"); 
