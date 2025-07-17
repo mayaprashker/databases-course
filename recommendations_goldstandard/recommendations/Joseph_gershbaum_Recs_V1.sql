@@ -1,599 +1,1797 @@
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(214755, 215876, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
+(214755  -- Minority Report
+, 215876  -- Mission: Impossible
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215876  -- Mission: Impossible
+, 215879  -- Mission: Impossible II
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215879  -- Mission: Impossible II
+, 215880  -- Mission: Impossible III
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215880  -- Mission: Impossible III
+, 215881  -- Mission: Improbable
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215881  -- Mission: Improbable
+, 335835  -- Top Gun
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335835  -- Top Gun
+, 271192  -- Rain Man
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271192  -- Rain Man
+, 278855  -- Risky Business
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(278855  -- Risky Business
+, 44450  -- Born on the Fourth of July
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(44450  -- Born on the Fourth of July
+, 67052  -- Collateral
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(67052  -- Collateral
+, 80031  -- Days of Thunder
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80031  -- Days of Thunder
+, 67388  -- Color of Money, The
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(67388  -- Color of Money, The
+, 114017  -- Firm, The
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(114017  -- Firm, The
+, 111813  -- Few Good Men, A
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(111813  -- Few Good Men, A
+, 108919  -- Far and Away
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(108919  -- Far and Away
+, 106666  -- Eyes Wide Shut
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(106666  -- Eyes Wide Shut
+, 100954  -- Endless Love
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(100954  -- Endless Love
+, 359297  -- War of the Worlds
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(359297  -- War of the Worlds
+, 350424  -- Vanilla Sky
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(350424  -- Vanilla Sky
+, 324822  -- Taps
+, 9
+, 'Joseph Gershbaum'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(130945  -- GoldenEye
+, 335337  -- Tomorrow Never Dies
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335337  -- Tomorrow Never Dies
+, 368419  -- World Is Not Enough, The
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(368419  -- World Is Not Enough, The
+, 86263  -- Die Another Day
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(86263  -- Die Another Day
+, 335336  -- Tomorrow Never Dies
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335336  -- Tomorrow Never Dies
+, 368418  -- World Is Not Enough, The
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(368418  -- World Is Not Enough, The
+, 85871  -- Diamonds Are Forever
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(85871  -- Diamonds Are Forever
+, 92573  -- Dr. No
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(92573  -- Dr. No
+, 120574  -- From Russia with Love
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(120574  -- From Russia with Love
+, 130953  -- Goldfinger
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(130953  -- Goldfinger
+, 332065  -- Thunderball
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(332065  -- Thunderball
+, 372233  -- You Only Live Twice
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372233  -- You Only Live Twice
+, 189403  -- Licence to Kill
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(189403  -- Licence to Kill
+, 192702  -- Living Daylights, The
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(192702  -- Living Daylights, The
+, 240521  -- On Her Majesty's Secret Service
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(240521  -- On Her Majesty's Secret Service
+, 117314  -- For Your Eyes Only
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(117314  -- For Your Eyes Only
+, 192514  -- Live and Let Die
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(192514  -- Live and Let Die
+, 203649  -- Man with the Golden Gun, The
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(203649  -- Man with the Golden Gun, The
+, 218808  -- Moonraker
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218808  -- Moonraker
+, 312170  -- Spy Who Loved Me, The
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(312170  -- Spy Who Loved Me, The
+, 354178  -- View to a Kill, A
+, 10
+, 'Joseph Gershbaum'
+, 'Both are official James Bond films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313459  -- Star Wars
+, 313460  -- Star Wars
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313461  -- Star Wars
+, 313463  -- Star Wars Holiday Special, The
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313464  -- Star Wars Rogue Leader: Rogue Squadron 2
+, 313465  -- Star Wars Rogue Squadron III: Rebel Strike
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313466  -- Star Wars: Battlefront
+, 313467  -- Star Wars: Bounty Hunter
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313468  -- Star Wars: Dark Forces
+, 313469  -- Star Wars: Demolition
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313470  -- Star Wars: Episode I - Battle for Naboo
+, 313471  -- Star Wars: Episode I - Jedi Power Battles
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313472  -- Star Wars: Episode I - Racer
+, 313473  -- Star Wars: Episode I - The Gungan Frontier
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313474  -- Star Wars: Episode I - The Phantom Menace
+, 313475  -- Star Wars: Episode I - The Phantom Menace (1999/II)
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313476  -- Star Wars: Episode II - Attack of the Clones
+, 313477  -- Star Wars: Episode III - Revenge of the Sith
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313478  -- Star Wars: Episode V - The Empire Strikes Back
+, 313479  -- Star Wars: Episode VI - Return of the Jedi
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313480  -- Star Wars: Force Commander
+, 313481  -- Star Wars: Galactic Battlegrounds
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313482  -- Star Wars: Galaxies
+, 313483  -- Star Wars: Jedi Arena
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313484  -- Star Wars: Jedi Knight - Dark Forces II
+, 313485  -- Star Wars: Jedi Knight - Jedi Academy
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313486  -- Star Wars: Jedi Knight - Mysteries of the Sith
+, 313487  -- Star Wars: Jedi Knight II - Jedi Outcast
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313488  -- Star Wars: Jedi Starfighter
+, 313489  -- Star Wars: Knights of the Old Republic
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313490  -- Star Wars: Masters of Ters Ksi
+, 313492  -- Star Wars: Obi-Wan
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313493  -- Star Wars: Racer Revenge
+, 313496  -- Star Wars: Republic Commando
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313497  -- Star Wars: Return of the Jedi - Death Star Battle
+, 313498  -- Star Wars: Rogue Squadron
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313499  -- Star Wars: Shadows of the Empire
+, 313500  -- Star Wars: Starfighter
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313501  -- Star Wars: Super Bombad Racing
+, 313502  -- Star Wars: The Arcade Game
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313503  -- Star Wars: The Clone Wars
+, 313504  -- Star Wars: The Empire Strikes Back
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313505  -- Star Wars: Tie Fighter Collector's CD-ROM
+, 313506  -- Star Wars: X-Wing
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313507  -- Star Wars: X-Wing Alliance
+, 313508  -- Star Wars: X-Wing vs. TIE Fighter
+, 9
+, 'Joseph Gershbaum'
+, 'Both are part of the Star Wars universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(106666  -- Eyes Wide Shut
+, 85871  -- Diamonds Are Forever
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(240521  -- On Her Majesty's Secret Service
+, 114017  -- Firm, The
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372233  -- You Only Live Twice
+, 313507  -- Star Wars: X-Wing Alliance
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(120574  -- From Russia with Love
+, 313469  -- Star Wars: Demolition
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313463  -- Star Wars Holiday Special, The
+, 313460  -- Star Wars
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(203649  -- Man with the Golden Gun, The
+, 313469  -- Star Wars: Demolition
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313486  -- Star Wars: Jedi Knight - Mysteries of the Sith
+, 313508  -- Star Wars: X-Wing vs. TIE Fighter
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313468  -- Star Wars: Dark Forces
+, 214755  -- Minority Report
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313489  -- Star Wars: Knights of the Old Republic
+, 215876  -- Mission: Impossible
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313503  -- Star Wars: The Clone Wars
+, 67052  -- Collateral
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(368419  -- World Is Not Enough, The
+, 100954  -- Endless Love
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313493  -- Star Wars: Racer Revenge
+, 67388  -- Color of Money, The
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313483  -- Star Wars: Jedi Arena
+, 106666  -- Eyes Wide Shut
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313475  -- Star Wars: Episode I - The Phantom Menace (1999/II)
+, 111813  -- Few Good Men, A
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313502  -- Star Wars: The Arcade Game
+, 313473  -- Star Wars: Episode I - The Gungan Frontier
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313459  -- Star Wars
+, 313471  -- Star Wars: Episode I - Jedi Power Battles
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215879  -- Mission: Impossible II
+, 278855  -- Risky Business
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(192702  -- Living Daylights, The
+, 313475  -- Star Wars: Episode I - The Phantom Menace (1999/II)
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313489  -- Star Wars: Knights of the Old Republic
+, 313487  -- Star Wars: Jedi Knight II - Jedi Outcast
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(368418  -- World Is Not Enough, The
+, 67052  -- Collateral
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(354178  -- View to a Kill, A
+, 313482  -- Star Wars: Galaxies
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313498  -- Star Wars: Rogue Squadron
+, 335835  -- Top Gun
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335835  -- Top Gun
+, 313481  -- Star Wars: Galactic Battlegrounds
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(108919  -- Far and Away
+, 313471  -- Star Wars: Episode I - Jedi Power Battles
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(354178  -- View to a Kill, A
+, 313502  -- Star Wars: The Arcade Game
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313502  -- Star Wars: The Arcade Game
+, 271192  -- Rain Man
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313492  -- Star Wars: Obi-Wan
+, 313496  -- Star Wars: Republic Commando
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215876  -- Mission: Impossible
+, 120574  -- From Russia with Love
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313472  -- Star Wars: Episode I - Racer
+, 114017  -- Firm, The
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313485  -- Star Wars: Jedi Knight - Jedi Academy
+, 271192  -- Rain Man
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335336  -- Tomorrow Never Dies
+, 312170  -- Spy Who Loved Me, The
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(108919  -- Far and Away
+, 313507  -- Star Wars: X-Wing Alliance
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313503  -- Star Wars: The Clone Wars
+, 312170  -- Spy Who Loved Me, The
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(324822  -- Taps
+, 130945  -- GoldenEye
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313474  -- Star Wars: Episode I - The Phantom Menace
+, 130953  -- Goldfinger
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313509  -- Star Wars: Yoda Stories
+, 350424  -- Vanilla Sky
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313481  -- Star Wars: Galactic Battlegrounds
+, 86263  -- Die Another Day
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313479  -- Star Wars: Episode VI - Return of the Jedi
+, 313485  -- Star Wars: Jedi Knight - Jedi Academy
+, 8
+, 'Joseph Gershbaum'
+, 'Similar tone and blockbuster appeal'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(130945  -- GoldenEye
+, 21756   -- Ashakara
+, 5
+, 'Joseph Gershbaum'
+, 'Bond fans might appreciate the attempt, though its not official'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335337  -- Tomorrow Never Dies
+, 76256   -- D4G
+, 5
+, 'Joseph Gershbaum'
+, 'Bond fans might appreciate the attempt, though its not official'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(368419  -- World Is Not Enough, The
+, 160315  -- Inside ''The Man with the Golden Gun''
+, 5
+, 'Joseph Gershbaum'
+, 'Bond fans might appreciate the attempt, though its not official'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(86263   -- Die Another Day
+, 165260  -- James Bond 007: Everything or Nothing
+, 5
+, 'Joseph Gershbaum'
+, 'Bond fans might appreciate the attempt, though its not official'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335336  -- Tomorrow Never Dies
+, 74724   -- Cubby Broccoli: The Man Behind Bond
+, 5
+, 'Joseph Gershbaum'
+, 'Bond fans might appreciate the attempt, though its not official'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(368418  -- World Is Not Enough, The
+, 245547  -- Outwitted (1917/II)
+, 5
+, 'Joseph Gershbaum'
+, 'Bond fans might appreciate the attempt, though its not official'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(85871   -- Diamonds Are Forever
+, 223076  -- Music of James Bond, The
+, 5
+, 'Joseph Gershbaum'
+, 'Bond fans might appreciate the attempt, though its not official'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(92573   -- Dr. No
+, 531     -- 007: Agent Under Fire
+, 5
+, 'Joseph Gershbaum'
+, 'Bond fans might appreciate the attempt, though its not official'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(120574  -- From Russia with Love
+, 165260  -- James Bond 007: Everything or Nothing
+, 5
+, 'Joseph Gershbaum'
+, 'Bond fans might appreciate the attempt, though its not official'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(130953  -- Goldfinger
+, 140431  -- Hawaa wal kerd
+, 5
+, 'Joseph Gershbaum'
+, 'Bond fans might appreciate the attempt, though its not official'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(214755  -- Minority Report
+, 160424  -- Inside Q's Laboratory
+, 4
+, 'Joseph Gershbaum'
+, 'Cruise action contrasted with a lesser-known spy film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215876  -- Mission: Impossible
+, 21756   -- Ashakara
+, 4
+, 'Joseph Gershbaum'
+, 'Cruise action contrasted with a lesser-known spy film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215879  -- Mission: Impossible II
+, 123256  -- Gam gai
+, 4
+, 'Joseph Gershbaum'
+, 'Cruise action contrasted with a lesser-known spy film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215880  -- Mission: Impossible III
+, 165260  -- James Bond 007: Everything or Nothing
+, 4
+, 'Joseph Gershbaum'
+, 'Cruise action contrasted with a lesser-known spy film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215881  -- Mission: Improbable
+, 160293  -- Inside ''Diamonds Are Forever''
+, 4
+, 'Joseph Gershbaum'
+, 'Cruise action contrasted with a lesser-known spy film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335835  -- Top Gun
+, 165261  -- James Bond 007: Nightfire
+, 4
+, 'Joseph Gershbaum'
+, 'Cruise action contrasted with a lesser-known spy film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271192  -- Rain Man
+, 234188  -- Nobody Does It Better: The Music of James Bond
+, 4
+, 'Joseph Gershbaum'
+, 'Cruise action contrasted with a lesser-known spy film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(278855  -- Risky Business
+, 130947  -- Goldeneye: The Secret Life of Ian Fleming
+, 4
+, 'Joseph Gershbaum'
+, 'Cruise action contrasted with a lesser-known spy film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(44450   -- Born on the Fourth of July
+, 140431  -- Hawaa wal kerd
+, 4
+, 'Joseph Gershbaum'
+, 'Cruise action contrasted with a lesser-known spy film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(67052   -- Collateral
+, 76256   -- D4G
+, 4
+, 'Joseph Gershbaum'
+, 'Cruise action contrasted with a lesser-known spy film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(160424  -- Inside Q's Laboratory
+, 313492  -- Star Wars: Obi-Wan
+, 5
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(324822  -- Taps
+, 313469  -- Star Wars: Demolition
+, 4
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313492  -- Star Wars: Obi-Wan
+, 313469  -- Star Wars: Demolition
+, 4
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(120574  -- From Russia with Love
+, 531     -- 007: Agent Under Fire
+, 6
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313502  -- Star Wars: The Arcade Game
+, 332065  -- Thunderball
+, 4
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335336  -- Tomorrow Never Dies
+, 234188  -- Nobody Does It Better: The Music of James Bond
+, 4
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313493  -- Star Wars: Racer Revenge
+, 313465  -- Star Wars Rogue Squadron III: Rebel Strike
+, 4
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(85871   -- Diamonds Are Forever
+, 215880  -- Mission: Impossible III
+, 6
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(111813  -- Few Good Men, A
+, 313464  -- Star Wars Rogue Leader: Rogue Squadron 2
+, 6
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313476  -- Star Wars: Episode II - Attack of the Clones
+, 313496  -- Star Wars: Republic Commando
+, 6
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313466  -- Star Wars: Battlefront
+, 313488  -- Star Wars: Jedi Starfighter
+, 4
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(123256  -- Gam gai
+, 85871   -- Diamonds Are Forever
+, 4
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21756   -- Ashakara
+, 189403  -- Licence to Kill
+, 4
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313470  -- Star Wars: Episode I - Battle for Naboo
+, 313501  -- Star Wars: Super Bombad Racing
+, 5
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(86263   -- Die Another Day
+, 117314  -- For Your Eyes Only
+, 4
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(130949  -- Goldenrock
+, 313474  -- Star Wars: Episode I - The Phantom Menace
+, 4
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(332065  -- Thunderball
+, 313461  -- Star Wars
+, 4
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313469  -- Star Wars: Demolition
+, 130953  -- Goldfinger
+, 6
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(278855  -- Risky Business
+, 108919  -- Far and Away
+, 5
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80031   -- Days of Thunder
+, 313478  -- Star Wars: Episode V - The Empire Strikes Back
+, 4
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313468  -- Star Wars: Dark Forces
+, 313460  -- Star Wars
+, 6
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(130945  -- GoldenEye
+, 313469  -- Star Wars: Demolition
+, 6
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(111813  -- Few Good Men, A
+, 215879  -- Mission: Impossible II
+, 5
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313478  -- Star Wars: Episode V - The Empire Strikes Back
+, 192514  -- Live and Let Die
+, 5
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(66192   -- Clue??
+, 76256   -- D4G
+, 5
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313480  -- Star Wars: Force Commander
+, 313489  -- Star Wars: Knights of the Old Republic
+, 5
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313506  -- Star Wars: X-Wing
+, 530     -- 007 Racing
+, 4
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313467  -- Star Wars: Bounty Hunter
+, 130945  -- GoldenEye
+, 4
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(85871   -- Diamonds Are Forever
+, 313505  -- Star Wars: Tie Fighter Collector''s CD-ROM
+, 5
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(120574  -- From Russia with Love
+, 106666  -- Eyes Wide Shut
+, 6
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(223076  -- Music of James Bond, The
+, 372233  -- You Only Live Twice
+, 4
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313501  -- Star Wars: Super Bombad Racing
+, 313508  -- Star Wars: X-Wing vs. TIE Fighter
+, 6
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(165260  -- James Bond 007: Everything or Nothing
+, 313471  -- Star Wars: Episode I - Jedi Power Battles
+, 4
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215881  -- Mission: Improbable
+, 313500  -- Star Wars: Starfighter
+, 6
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313463  -- Star Wars Holiday Special, The
+, 76256   -- D4G
+, 4
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313461  -- Star Wars
+, 114017  -- Firm, The
+, 5
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313486  -- Star Wars: Jedi Knight - Mysteries of the Sith
+, 313460  -- Star Wars
+, 5
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(230394  -- Never Say Never Again
+, 313466  -- Star Wars: Battlefront
+, 5
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(140431  -- Hawaa wal kerd
+, 66192   -- Clue??
+, 5
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313497  -- Star Wars: Return of the Jedi - Death Star Battle
+, 86263   -- Die Another Day
+, 4
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(223076  -- Music of James Bond, The
+, 74724   -- Cubby Broccoli: The Man Behind Bond
+, 6
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(67388   -- Color of Money, The
+, 324822  -- Taps
+, 4
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313474  -- Star Wars: Episode I - The Phantom Menace
+, 313471  -- Star Wars: Episode I - Jedi Power Battles
+, 4
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(160293  -- Inside ''Diamonds Are Forever''
+, 234188  -- Nobody Does It Better: The Music of James Bond
+, 6
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313468  -- Star Wars: Dark Forces
+, 313501  -- Star Wars: Super Bombad Racing
+, 5
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80031   -- Days of Thunder
+, 67052   -- Collateral
+, 5
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313504  -- Star Wars: The Empire Strikes Back
+, 368419  -- World Is Not Enough, The
+, 6
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(278855  -- Risky Business
+, 313487  -- Star Wars: Jedi Knight II - Jedi Outcast
+, 4
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(100954  -- Endless Love
+, 140431  -- Hawaa wal kerd
+, 4
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313496  -- Star Wars: Republic Commando
+, 350424  -- Vanilla Sky
+, 5
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313469  -- Star Wars: Demolition
+, 313508  -- Star Wars: X-Wing vs. TIE Fighter
+, 5
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(189403  -- Licence to Kill
+, 313475  -- Star Wars: Episode I - The Phantom Menace (1999/II)
+, 6
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313479  -- Star Wars: Episode VI - Return of the Jedi
+, 92573   -- Dr. No
+, 5
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313507  -- Star Wars: X-Wing Alliance
+, 313485  -- Star Wars: Jedi Knight - Jedi Academy
+, 6
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313480  -- Star Wars: Force Commander
+, 313467  -- Star Wars: Bounty Hunter
+, 4
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(117314  -- For Your Eyes Only
+, 245547  -- Outwitted (1917/II)
+, 6
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335337  -- Tomorrow Never Dies
+, 313461  -- Star Wars
+, 4
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372233  -- You Only Live Twice
+, 313490  -- Star Wars: Masters of Ters Ksi
+, 5
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313460  -- Star Wars
+, 160315  -- Inside ''The Man with the Golden Gun''
+, 4
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313501  -- Star Wars: Super Bombad Racing
+, 313459  -- Star Wars
+, 4
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313485  -- Star Wars: Jedi Knight - Jedi Academy
+, 271192  -- Rain Man
+, 4
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313459  -- Star Wars
+, 313509  -- Star Wars: Yoda Stories
+, 5
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(117314  -- For Your Eyes Only
+, 313465  -- Star Wars Rogue Squadron III: Rebel Strike
+, 5
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215879  -- Mission: Impossible II
+, 165261  -- James Bond 007: Nightfire
+, 4
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313482  -- Star Wars: Galaxies
+, 335337  -- Tomorrow Never Dies
+, 4
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313506  -- Star Wars: X-Wing
+, 114017  -- Firm, The
+, 4
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313493  -- Star Wars: Racer Revenge
+, 160295  -- Inside ''Dr. No''
+, 6
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(85871   -- Diamonds Are Forever
+, 189403  -- Licence to Kill
+, 5
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372233  -- You Only Live Twice
+, 313499  -- Star Wars: Shadows of the Empire
+, 4
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218808  -- Moonraker
+, 332065  -- Thunderball
+, 5
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(106666  -- Eyes Wide Shut
+, 313461  -- Star Wars
+, 4
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313498  -- Star Wars: Rogue Squadron
+, 313485  -- Star Wars: Jedi Knight - Jedi Academy
+, 5
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271192  -- Rain Man
+, 313509  -- Star Wars: Yoda Stories
+, 5
+, 'Joseph Gershbaum'
+, 'Interesting contrast within the franchise theme'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313479  -- Star Wars: Episode VI - Return of the Jedi
+, 165261  -- James Bond 007: Nightfire
+, 4
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(67052   -- Collateral
+, 368418  -- World Is Not Enough, The
+, 6
+, 'Joseph Gershbaum'
+, 'A weaker entry paired with a fan-favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(354178  -- View to a Kill, A
+, 117314  -- For Your Eyes Only
+, 5
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313503  -- Star Wars: The Clone Wars
+, 313506  -- Star Wars: X-Wing
+, 6
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(189403  -- Licence to Kill
+, 313467  -- Star Wars: Bounty Hunter
+, 4
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313466  -- Star Wars: Battlefront
+, 312170  -- Spy Who Loved Me, The
+, 5
+, 'Joseph Gershbaum'
+, 'Could work for genre fans, but not ideal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313479  -- Star Wars: Episode VI - Return of the Jedi
+, 313504  -- Star Wars: The Empire Strikes Back
+, 6
+, 'Joseph Gershbaum'
+, 'Same general genre, but tone and quality differ'
+, NULL
+);
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(215876, 215879, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(215879, 215880, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(215880, 215881, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(215881, 335835, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(335835, 271192, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(271192, 278855, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(278855, 44450, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(44450, 67052, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(67052, 80031, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(80031, 67388, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(67388, 114017, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(114017, 111813, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(111813, 108919, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(108919, 106666, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(106666, 100954, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(100954, 359297, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(359297, 350424, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(350424, 324822, 9, 'Joseph Gershbaum', 'Both star Tom Cruise', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(130945, 335337, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(335337, 368419, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(368419, 86263, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(86263, 335336, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(335336, 368418, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(368418, 85871, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(85871, 92573, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(92573, 120574, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(120574, 130953, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(130953, 332065, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(332065, 372233, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(372233, 189403, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(189403, 192702, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(192702, 240521, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(240521, 117314, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(117314, 192514, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(192514, 203649, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(203649, 218808, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(218808, 312170, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(312170, 354178, 10, 'Joseph Gershbaum', 'Both are official James Bond films', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313459, 313460, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313461, 313463, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313464, 313465, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313466, 313467, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313468, 313469, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313470, 313471, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313472, 313473, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313474, 313475, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313476, 313477, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313478, 313479, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313480, 313481, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313482, 313483, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313484, 313485, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313486, 313487, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313488, 313489, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313490, 313492, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313493, 313496, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313497, 313498, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313499, 313500, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313501, 313502, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313503, 313504, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313505, 313506, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313507, 313508, 9, 'Joseph Gershbaum', 'Both are part of the Star Wars universe', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(106666, 85871, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(240521, 114017, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(372233, 313507, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(120574, 313469, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313463, 313460, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(203649, 313469, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313486, 313508, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313468, 214755, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313489, 215876, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313503, 67052, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(368419, 100954, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313493, 67388, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313483, 106666, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313475, 111813, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313502, 313473, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313459, 313471, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(215879, 278855, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(192702, 313475, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313489, 313487, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(368418, 67052, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(354178, 313482, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313498, 335835, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(335835, 313481, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(108919, 313471, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(354178, 313502, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313502, 271192, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313492, 313496, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(215876, 120574, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313472, 114017, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313485, 271192, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(335336, 312170, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(108919, 313507, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313503, 312170, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(324822, 130945, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313474, 130953, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313509, 350424, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313481, 86263, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313479, 313485, 8, 'Joseph Gershbaum', 'Similar tone and blockbuster appeal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(130945, 21756, 5, 'Joseph Gershbaum', 'Bond fans might appreciate the attempt, though its not official', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(335337, 76256, 5, 'Joseph Gershbaum', 'Bond fans might appreciate the attempt, though its not official', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(368419, 160315, 5, 'Joseph Gershbaum', 'Bond fans might appreciate the attempt, though its not official', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(86263, 165260, 5, 'Joseph Gershbaum', 'Bond fans might appreciate the attempt, though its not official', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(335336, 74724, 5, 'Joseph Gershbaum', 'Bond fans might appreciate the attempt, though its not official', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(368418, 245547, 5, 'Joseph Gershbaum', 'Bond fans might appreciate the attempt, though its not official', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(85871, 223076, 5, 'Joseph Gershbaum', 'Bond fans might appreciate the attempt, though its not official', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(92573, 531, 5, 'Joseph Gershbaum', 'Bond fans might appreciate the attempt, though its not official', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(120574, 165260, 5, 'Joseph Gershbaum', 'Bond fans might appreciate the attempt, though its not official', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(130953, 140431, 5, 'Joseph Gershbaum', 'Bond fans might appreciate the attempt, though its not official', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(214755, 160424, 4, 'Joseph Gershbaum', 'Cruise action contrasted with a lesser-known spy film', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(215876, 21756, 4, 'Joseph Gershbaum', 'Cruise action contrasted with a lesser-known spy film', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(215879, 123256, 4, 'Joseph Gershbaum', 'Cruise action contrasted with a lesser-known spy film', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(215880, 165260, 4, 'Joseph Gershbaum', 'Cruise action contrasted with a lesser-known spy film', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(215881, 160293, 4, 'Joseph Gershbaum', 'Cruise action contrasted with a lesser-known spy film', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(335835, 165261, 4, 'Joseph Gershbaum', 'Cruise action contrasted with a lesser-known spy film', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(271192, 234188, 4, 'Joseph Gershbaum', 'Cruise action contrasted with a lesser-known spy film', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(278855, 130947, 4, 'Joseph Gershbaum', 'Cruise action contrasted with a lesser-known spy film', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(44450, 140431, 4, 'Joseph Gershbaum', 'Cruise action contrasted with a lesser-known spy film', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(67052, 76256, 4, 'Joseph Gershbaum', 'Cruise action contrasted with a lesser-known spy film', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(160424, 313492, 5, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(324822, 313469, 4, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313492, 313469, 4, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(120574, 531, 6, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313502, 332065, 4, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(335336, 234188, 4, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313493, 313465, 4, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(85871, 215880, 6, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(111813, 313464, 6, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313476, 313496, 6, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313466, 313488, 4, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(123256, 85871, 4, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(21756, 189403, 4, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313470, 313501, 5, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(86263, 117314, 4, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(130949, 313474, 4, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(332065, 313461, 4, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313469, 130953, 6, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(278855, 108919, 5, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(80031, 313478, 4, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313468, 313460, 6, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(130945, 313469, 6, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(111813, 215879, 5, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313478, 192514, 5, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(66192, 76256, 5, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313480, 313489, 5, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313506, 530, 4, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313467, 130945, 4, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(85871, 313505, 5, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(120574, 106666, 6, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(223076, 372233, 4, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313501, 313508, 6, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(165260, 313471, 4, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(215881, 313500, 6, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313463, 76256, 4, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313461, 114017, 5, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313486, 313460, 5, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(230394, 313466, 5, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(140431, 66192, 5, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313497, 86263, 4, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(223076, 74724, 6, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(67388, 324822, 4, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313474, 313471, 4, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(160293, 234188, 6, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313468, 313501, 5, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(80031, 67052, 5, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313504, 368419, 6, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(278855, 313487, 4, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(100954, 140431, 4, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313496, 350424, 5, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313469, 313508, 5, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(189403, 313475, 6, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313479, 92573, 5, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313507, 313485, 6, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313480, 313467, 4, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(117314, 245547, 6, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(335337, 313461, 4, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(372233, 313490, 5, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313460, 160315, 4, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313501, 313459, 4, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313485, 271192, 4, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313459, 313509, 5, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(117314, 313465, 5, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(215879, 165261, 4, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313482, 335337, 4, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313506, 114017, 4, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313493, 160295, 6, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(85871, 189403, 5, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(372233, 313499, 4, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(218808, 332065, 5, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(106666, 313461, 4, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313498, 313485, 5, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(271192, 313509, 5, 'Joseph Gershbaum', 'Interesting contrast within the franchise theme', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313479, 165261, 4, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(67052, 368418, 6, 'Joseph Gershbaum', 'A weaker entry paired with a fan-favorite', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(354178, 117314, 5, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313503, 313506, 6, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(189403, 313467, 4, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313466, 312170, 5, 'Joseph Gershbaum', 'Could work for genre fans, but not ideal', NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(313479, 313504, 6, 'Joseph Gershbaum', 'Same general genre, but tone and quality differ', NULL);
