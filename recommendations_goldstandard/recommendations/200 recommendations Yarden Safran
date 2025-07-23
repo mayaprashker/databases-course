@@ -1,4 +1,4 @@
-INSERT INTO movies_recommendations (id1, id2, score, created_by, justification) VALUES
+INSERT INTO movies_recommendations (base_movie_id, recommended_movie_id, recommendation, suggested_by, justification) VALUES
 -- bad
 ('164412', '33050', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Jack Black: Spider-Man -> Behind the Scenes: Spider-Man the Movie
 ('33050', '164412', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES'), -- Behind the Scenes: Spider-Man the Movie -> Jack Black: Spider-Man
@@ -122,7 +122,6 @@ INSERT INTO movies_recommendations (id1, id2, score, created_by, justification) 
 ('41518', '46167', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Blow -> Brave, The
 ('46167', '22651', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Brave, The -> Astronaut's Wife, The
 ('22651', '46167', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Astronaut's Wife, The -> Brave, The
-('70959', '49854', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Corpse Bride, The -> Buried Secret of M. Night Shyamalan, The
 ('49854', '41518', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Buried Secret of M. Night Shyamalan, The -> Blow
 ('70959', '32707', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Corpse Bride, The -> Before Night Falls
 ('59578', '32707', 9, 'Yarden safran', 'Johnny Depp – different genres'), -- Charlie and the Chocolate Factory -> Before Night Falls
