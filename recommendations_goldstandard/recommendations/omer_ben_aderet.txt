@@ -1801,3 +1801,21 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Despite similar titles, these movies are unrelated in style or content'
 , NULL
 );
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(34319  -- Superman III
+, 112290  -- Shrek Forever After
+, 1
+, 'Omer Ben Aderet'
+, 'Completely unrelated genres and audiences'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(84427  -- The Ring
+, 116797  -- The Hangover
+, 1
+, 'Omer Ben Aderet'
+, 'Combining horror and comedy usually doesn’t make sense in recommendations'
+, NULL
+);
