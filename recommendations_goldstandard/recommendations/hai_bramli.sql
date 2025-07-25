@@ -1,20 +1,4 @@
-USE imdb_ijs;
 
-
-
-DROP TABLE IF EXISTS movies_recommendations;
-
-
-
-CREATE TABLE movies_recommendations (
-  base_movie_id INT,
-  recommended_movie_id INT,
-  recommendation INT,
-  suggested_by VARCHAR(255),
-  justification VARCHAR(255),
-  comment VARCHAR(255),
-  CONSTRAINT CHK_recommendation CHECK (recommendation >=1 AND 10 >= recommendation)
-);
 
 -- Base Movie ID: 1104, Recommended Movie ID: 318
 INSERT INTO imdb_ijs.movies_recommendations VALUES (1000, 1001, 9, 'hai bramli', 'Notable for screenplay and dialogue', 'They showcase similar cinematographic techniques');
