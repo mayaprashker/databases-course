@@ -21,6 +21,7 @@
 6. [datacamp](https://www.datacamp.com/blog/top-sql-interview-questions-and-answers-for-beginners-and-intermediate-practitioners)
 7. [GeeksForGeeks data analyst](https://www.geeksforgeeks.org/sql-questions-for-data-analyst-interview/)
 8. [Reddit](https://www.reddit.com/r/SQL/comments/y2up02/typical_sql_interview_questions_for_data_analysts/)
+9. [LeetCode](https://leetcode.com/studyplan/top-sql-50/)
 
 # MySql use by code
 1. [MySql with python example](https://dev.mysql.com/doc/connector-python/en/connector-python-example-cursor-select.html)
