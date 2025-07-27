@@ -24,6 +24,18 @@ group by year
 order by year
 ;
 
+select
+if(m.rank >= 7,1,0) as high_rank # grouping by a function
+, count(*) as cnt
+, count(distinct name) as movies_names
+, avg(m.rank) as rank_avg
+, avg(year) 
+from
+imdb_ijs.movies as m
+group by high_rank
+order by high_rank
+;
+
 
 
 # Actors by ranking
