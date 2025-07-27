@@ -368,7 +368,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (1595  -- 2+1
 , 123371  -- Game Day
 , 8
-, ''
+, 'Ido Ohayon'
 , 'Comedy; released 2000; rank > 9'
 , NULL
 );
