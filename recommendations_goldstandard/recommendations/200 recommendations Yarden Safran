@@ -1,4 +1,4 @@
-INSERT INTO movies_recommendations (base_movie_id, recommended_movie_id, recommendation, suggested_by, justification, comment) VALUES
+INSERT INTO movies_recommendations  VALUES
 -- 1
 ('164412', '33050', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES', NULL), -- Jack Black: Spider-Man -> Behind the Scenes: Spider-Man the Movie
 -- 2
@@ -192,13 +192,13 @@ INSERT INTO movies_recommendations (base_movie_id, recommended_movie_id, recomme
 -- 96
 ('267408', '311047', 4, 'Yarden safran', 'SPIDERMAN-ACTUAL MOVIES WITH OTHER RELATED MOVIES', NULL), -- Spider-Man 2 -> Spider-Man: The Dragon’s Challenge
 -- 97
-('291698', '337168', 10, 'Yarden safran', 'same 4 year span', NULL), -- Se7en -> Toy Story 2
+('291698', '337168', 3, 'Yarden safran', 'same 4 year span', NULL), -- Se7en -> Toy Story 2
 -- 98
-('337168', '291698', 10, 'Yarden safran', 'same 4 year span', NULL), -- Toy Story 2 -> Se7en
+('337168', '291698', 3, 'Yarden safran', 'same 4 year span', NULL), -- Toy Story 2 -> Se7en
 -- 99
-('291698', '358735', 10, 'Yarden safran', 'same 4 year span', NULL), -- Se7en -> Wallace & Gromit: A Close Shave
+('291698', '358735', 3, 'Yarden safran', 'same 4 year span', NULL), -- Se7en -> Wallace & Gromit: A Close Shave
 -- 100
-('358735', '291698', 10, 'Yarden safran', 'same 4 year span', NULL), -- Wallace & Gromit: A Close Shave -> Se7en
+('358735', '291698', 3, 'Yarden safran', 'same 4 year span', NULL), -- Wallace & Gromit: A Close Shave -> Se7en
 -- good
 -- 1
 ('49854', '41518', 9, 'Yarden safran', 'Johnny Depp – different genres', NULL), -- Buried Secret of M. Night Shyamalan, The -> Blow
@@ -400,5 +400,4 @@ INSERT INTO movies_recommendations (base_movie_id, recommended_movie_id, recomme
 -- 101
 ('313479', '313478', 10, 'Yarden safran', 'star wars movies', NULL), -- Star Wars: Episode VI - Return of the Jedi → Star Wars: Episode V - The Empire Strikes Back
 ('113506','59578',9,'Yarden safran','johnny Depp--different genres',NULL); -- finding neverland-charlie and the chocolate factory
-
 
