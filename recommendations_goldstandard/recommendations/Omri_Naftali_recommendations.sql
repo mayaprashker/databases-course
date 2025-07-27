@@ -32,17 +32,12 @@ values
 (238072, 60107, 9, "Omri Naftali", "same director", NULL),
 (238072, 102514, 9, "Omri Naftali", "same director", NULL),
 (238072, 102653, 9, "Omri Naftali", "same director", NULL),
-(238072, 121528, 9, "Omri Naftali", "same director", NULL),
 (238072, 133382, 9, "Omri Naftali", "same director", NULL),
 (238072, 172073, 9, "Omri Naftali", "same director", NULL),
 (238072, 177456, 9, "Omri Naftali", "same director", NULL),
 (238072, 190951, 9, "Omri Naftali", "same director", NULL),
-(238072, 238073, 9, "Omri Naftali", "same director", NULL),
-(238072, 245103, 9, "Omri Naftali", "same director", NULL),
-(238072, 290086, 9, "Omri Naftali", "same director", NULL),
 (238072, 296024, 9, "Omri Naftali", "same director", NULL),
 (238072, 307274, 9, "Omri Naftali", "same director", NULL),
-(238072, 337404, 9, "Omri Naftali", "same director", NULL),
 (238072, 346299, 9, "Omri Naftali", "same director", NULL),
 (238072, 366383, 9, "Omri Naftali", "same director", NULL),
 (238072, 371340, 9, "Omri Naftali", "same director", NULL),
@@ -83,7 +78,12 @@ values
 (238072, 49312, 8, "Omri Naftali", "> 2 shared genres", NULL),
 (238072, 59293, 8, "Omri Naftali", "> 2 shared genres", NULL),
 (238072, 59829, 8, "Omri Naftali", "> 2 shared genres", NULL),
-(238072, 60148, 8, "Omri Naftali", "> 2 shared genres", NULL)
+(238072, 60148, 8, "Omri Naftali", "> 2 shared genres", NULL),
+(238072, 126624, 8, "Omri Naftali", "> 2 shared genres", NULL),
+(238072, 127775, 8, "Omri Naftali", "> 2 shared genres", NULL),
+(238072, 127776, 8, "Omri Naftali", "> 2 shared genres", NULL),
+(238072, 131739, 8, "Omri Naftali", "> 2 shared genres", NULL),
+(238072, 181378, 8, "Omri Naftali", "> 2 shared genres", NULL)
 ;
 
 # Forrest Gump - >2 shared actors
@@ -223,7 +223,7 @@ values
 
 # Spider-Man - one shared actor who is an extra
 
-insert into imdb_ijs.movies_recommendations 
+insert into imdb_ijs.movies_recommendations
 values
 (311037, 8090, 2, "Omri Naftali", "One shared actor who is an extra", NULL),
 (311037, 13531, 2, "Omri Naftali", "One shared actor who is an extra", NULL),
@@ -239,5 +239,3 @@ values
 (311037, 358190, 2, "Omri Naftali", "One shared actor who is an extra", NULL),
 (311037, 366685, 2, "Omri Naftali", "One shared actor who is an extra", NULL)
 ;
-
-
