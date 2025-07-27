@@ -368,7 +368,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (1595  -- 2+1
 , 123371  -- Game Day
 , 8
-, ''
+, 'Ido Ohayon'
 , 'Comedy; released 2000; rank > 9'
 , NULL
 );
@@ -387,7 +387,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 (333856  -- Titanic
 , 56871  -- Catch Me If You Can
 , 8
-, 'Ido Ohayonoc'
+, 'Ido Ohayon'
 , 'Both star Leonardo DiCaprio'
 , 'Fans of DiCaprio tend to enjoy other films he stars in'
 );
@@ -996,7 +996,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (308057  -- Something Evil
 , 259819  -- Polsk krev
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Related topics but different approach'
 , NULL
@@ -1014,7 +1014,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (237260  -- Nr syrenerna blomma
 , 19176  -- Appointment, The
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Partial genre overlap'
 , NULL
@@ -1059,7 +1059,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (204483  -- Mann stürzt ab, Ein
 , 88034  -- Divided Trail: A Native American Odyssey, The
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Loosely related atmosphere'
 , NULL
@@ -1113,7 +1113,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (23525  -- Attenti al buffone
 , 326537  -- Teatro e a Música de Valdemar de Oliveira, O
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Loosely related atmosphere'
 , NULL
@@ -1158,7 +1158,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (61562  -- Child in Judgment, A
 , 383157  -- Cadenas de angustia
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Some overlapping elements'
 , NULL
@@ -1167,7 +1167,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (295592  -- Sex and Fame: The Mary Millington Story
 , 315243  -- Stoned
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Different genre but same era'
 , NULL
@@ -1185,7 +1185,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (211237  -- Moonshine
 , 15166  -- Angkor: Land of Gods
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Partial genre overlap'
 , NULL
@@ -1230,7 +1230,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (173215  -- Kan Zeh Lo Sham
 , 172723  -- Kalinga Mardanam
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Some overlapping elements'
 , NULL
@@ -1239,7 +1239,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (243684  -- One Man's War
 , 12213  -- Algiers
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Related topics but different approach'
 , NULL
@@ -1266,7 +1266,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (164294  -- Jaali Note
 , 285535  -- Saher, al-
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Loosely related atmosphere'
 , NULL
@@ -1302,7 +1302,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (1100  -- 14 Million Dreams
 , 5086  -- Abrahams Gold
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Different genre but same era'
 , NULL
@@ -1392,7 +1392,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (300230 -- Shrek 2
 , 173215  -- Kan Zeh Lo Sham
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Different decade but similar mood'
 , NULL
@@ -1410,7 +1410,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (230662  -- New Guy
 , 267546  -- Purple Gas
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Different genre but same era'
 , NULL
@@ -1473,7 +1473,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (242976  -- Optimistic
 , 11595  -- All Water Has a Perfect Memory
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Loosely related atmosphere'
 , NULL
@@ -1482,7 +1482,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (248426  -- Paradisco
 , 72628  -- Cravan vs. Cravan
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Some shared themes'
 , NULL
@@ -1509,7 +1509,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (264084 -- Prince Solitaire
 , 24259  -- Aura
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Loosely related atmosphere'
 , NULL
@@ -1518,7 +1518,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (218776  -- Moonlight by the Sea
 , 24259  -- Aura
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Both highly acclaimed films with distinct styles and storytelling approaches'
 , NULL
@@ -1563,7 +1563,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (285535  -- Schemers
 , 326043  -- Tauromaquias
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Slight narrative resemblance'
 , NULL
@@ -1608,7 +1608,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (308057  -- Something Evil
 , 286751  -- Sampark
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Different genre but same era'
 , NULL
@@ -1653,7 +1653,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (254987-- Pianista, El
 , 254986 -- Pianist, The
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Stylistically similar, but different in tone and intent'
 , NULL
@@ -1682,7 +1682,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (308057  -- Something Evil
 , 278797  -- Risen Soul of Jim Grant, The
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Some overlapping elements'
 , NULL
@@ -1718,7 +1718,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (43151 -- Bolivia
 , 278797  -- Risen Soul of Jim Grant, The
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Similar genre but released many decades apart'
 , NULL
@@ -1754,7 +1754,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (308057  -- Something Evil
 , 326043  -- Tauromaquias
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Slight narrative resemblance'
 , NULL
@@ -1799,7 +1799,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (21384  -- Arvottomat
 , 286751  -- Sampark
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Loosely related atmosphere'
 , NULL
@@ -1808,7 +1808,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (286751  -- Sampark
 , 108938  -- Far From China
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Some overlapping elements'
 , NULL
@@ -1853,7 +1853,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (278797  -- Risen Soul of Jim Grant, The
 , 265843  -- Prowler, The
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Some overlapping elements'
 , NULL
@@ -1880,7 +1880,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (349299  -- V myortvoj petle
 , 293349  -- Segreto del successo, Il
-, 6
+, 5
 , 'Ido Ohayon'
 , 'Related topics but different approach'
 , NULL
