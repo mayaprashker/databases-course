@@ -35,13 +35,12 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 129185  -- Gladiator
-, 46169  -- Braveheart
+( 46169   -- Braveheart
+, 129185  -- Gladiator
 , 8
 , 'Amit P.'
-, 'Two stirring rebellions: Maximus’s vengeance in Rome mirrors William Wallace’s fight for Scotland—sweeping, rousing period epics.'
-, NULL
-);
+, 'Inspirational historical epics where honour-bound warriors defy corrupt empires.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 189954  -- Man of Steel
@@ -116,13 +115,11 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 11587  -- Back to the Future
-, 115846  -- Frozen
-, 8
-, 'Amit P.'
-, 'Time-travel adventure and modern Disney fairy tale share themes of destiny and family bonds, wrapped in crowd-pleasing spectacle.'
-, NULL
-);
+( 26844  -- Back to the Future
+, 120817 -- Frozen
+, 8, 'Amit P.'
+, 'Time-travel adventure and modern Disney fairy-tale share themes of destiny and family bonds, wrapped in crowd-pleasing spectacle.'
+, NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 47456  -- Beauty and the Beast
@@ -182,12 +179,12 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 112290  -- Fight Club
-, 58189   -- Bridesmaids
+, 15187   -- American Psycho
 , 8
 , 'Amit P.'
-, 'Darkly comic looks at identity crises and social expectations—masculine vs. feminine lenses yet similar catharses.'
-, NULL
-);
+, 'Darkly satirical dissections of identity, consumerism and violence—cult double bill.'
+, NULL );
+
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 30293   -- Big
@@ -200,11 +197,11 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 298801  -- Silence of the Lambs, The
-, 78068   -- Crash
+, 72553   -- Crash
 , 8
 , 'Amit P.'
-, 'Psychological thrillers dissecting human darkness—one intimate, one ensemble—leave viewers unsettled and reflective.'
-, NULL
+, 'Psychological thrillers probing human darkness—one intimate, one ensemble.'
+, NULL 
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
@@ -335,13 +332,11 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 88966   -- Deadpool
-, 90633   -- Doctor Strange
-, 8
-, 'Amit P.'
-, 'Meta-humour and mind-bending visuals refresh the superhero formula in these irreverent MCU offshoots.'
-, NULL
-);
+( 40187   /* Blade (1998)                */
+, 311037  /* Spider-Man (2002)           */
+, 8 , 'Amit P.'
+, 'Pre-MCU Marvel heroes blaze a path: Blade’s R-rated vampire slaying meets Spider-Man’s crowd-pleasing web-slinging.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 169167  -- Iron Man
@@ -515,13 +510,12 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 1481    -- 21 Jump Street
-, 52274   -- Clueless
+( 378795  -- 21 Jump Street
+, 66194   -- Clueless
 , 8
 , 'Amit P.'
-, 'High-school fish-out-of-water comedies fuelled by self-aware humour and culture-clash hijinks.'
-, NULL
-);
+, 'Self-aware high-school comedies bursting with culture-clash humour.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 11286   -- A Quiet Place
@@ -569,12 +563,12 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 52274   -- Clueless
-, 1408    -- 10 Things I Hate About You
+( 66194   -- Clueless
+, 644     -- 10 Things I Hate About You
 , 8
 , 'Amit P.'
-, '’90s teen classics updating literature (Austen, Shakespeare) with valley-girl verve and sharp wit.'
-, NULL
+, 'Twin ’90s teen classics that modernise Austen and Shakespeare.'
+, NULL 
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
@@ -623,13 +617,11 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 90633   -- Doctor Strange
-, 169167  -- Iron Man
-, 8
-, 'Amit P.'
-, 'Origin stories where arrogant geniuses embrace responsibility and unlock dazzling new powers.'
-, NULL
-);
+( 311037  /* Spider-Man (2002)           */
+, 162380  /* Iron Man (2005)             */
+, 8 , 'Amit P.'
+, 'Early-2000s Marvel icons set the stage for the shared-universe era—webs versus armor, charisma all around.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 256627  -- Room
@@ -698,13 +690,11 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 746576  -- Soul
-, 195343  -- Inside Out
-, 8
-, 'Amit P.'
-, 'Existential Pixar pair exploring emotions, purpose and what makes us human.'
-, NULL
-);
+( 191246  /* The Lion King (1994)        */
+, 28751   /* Bambi (1942)                */
+, 8 , 'Amit P.'
+, 'Disney classics that guide young heroes through life, loss and identity with emotionally resonant animal storytelling.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 36426   -- Big Hero 6
@@ -743,13 +733,12 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 1408    -- 10 Things I Hate About You
-, 52274   -- Clueless
+( 644     -- 10 Things I Hate About You
+, 66194   -- Clueless
 , 8
 , 'Amit P.'
-, 'Sharp ’90s teen re-tellings of literary classics packed with wit and charm.'
-, NULL
-);
+, 'Reciprocal match—literary makeovers with sarcastic charm.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 4557    -- 3 Idiots
@@ -797,13 +786,12 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 5049    -- 28 Days Later
+( 2000    -- 28 Days Later...
 , 111963  -- Edge of Tomorrow
 , 8
 , 'Amit P.'
-, 'Relentless infection and endless time-loop battles redefine survival horror.'
-, NULL
-);
+, 'Inventive survival thrillers: viral apocalypse meets looping alien war.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 100275  -- Cradle 2 the Grave
@@ -971,29 +959,28 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 10920   -- Aliens
 , 333856  -- Titanic
-, 2
+, 8
 , 'Amit P.'
-, 'Action-horror sequel vs doomed romance'
-, NULL
-);
+, 'Two James Cameron blockbusters that pushed VFX limits while anchoring emotion.'
+, NULL );
+
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 333856  -- Titanic
 , 10920   -- Aliens
-, 2
+, 8
 , 'Amit P.'
-, 'Doomed romance vs action-horror sequel'
-, NULL
-);
+, 'Cameron’s range: doomed romance and xenomorph warfare—two master-classes in tension and emotion.'
+, NULL );
+
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 210739  -- Men in Black
-, 290070  -- Schindler's List
-, 2
+, 158999  -- Independence Day
+, 8
 , 'Amit P.'
-, 'Alien-policing comedy vs Holocaust drama'
-, NULL
-);
+, '’90s alien blockbusters that mix action, comedy and charismatic leads—perfect double feature.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 290070  -- Schindler's List
@@ -1023,22 +1010,18 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 11587   -- Back to the Future
-, 78068   -- Crash
-, 2
-, 'Amit P.'
-, 'Time-travel romp vs ensemble tragedy'
-, NULL
-);
+( 72553   /* Crash (1974)                */
+, 26844   /* Back to the Future (1985)   */
+, 2 , 'Amit P.'
+, 'Ensemble tragedy meets light-hearted time travel—another intentionally poor recommendation.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 78068   -- Crash
-, 11587   -- Back to the Future
-, 2
-, 'Amit P.'
-, 'Ensemble tragedy vs time-travel romp'
-, NULL
-);
+( 26844   /* Back to the Future (1985)   */
+, 72553   /* Crash (1974)                */
+, 2 , 'Amit P.'
+, 'Time-travel romp versus ensemble tragedy—tone clash makes this a deliberately weak pairing.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 214756  -- Matrix Reloaded, The
@@ -1176,22 +1159,18 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 88330   -- Django Unchained
-, 115846  -- Frozen
-, 2
-, 'Amit P.'
-, 'Bloody revenge western vs modern Disney fairy-tale'
-, NULL
-);
+( 120817  /* Frozen (2004)               */
+, 88343   /* Django (1966)               */
+, 2 , 'Amit P.'
+, 'Modern icy fairy-tale meets dusty gun-slinging revenge—another poor fit.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 115846  -- Frozen
-, 88330   -- Django Unchained
-, 2
-, 'Amit P.'
-, 'Modern Disney fairy-tale vs bloody revenge western'
-, NULL
-);
+( 88343   /* Django (1966)               */
+, 120817  /* Frozen (2004)               */
+, 2 , 'Amit P.'
+, 'Spaghetti-western vengeance saddled with a modern icy fairy-tale—audiences worlds apart.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 30959   -- Batman Begins
@@ -1302,13 +1281,11 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 746576  -- Soul
-, 33965   -- Blade Runner
-, 2
-, 'Amit P.'
-, 'Existential jazz animation vs dystopian cyber-noir'
-, NULL
-);
+( 28751   /* Bambi (1942)                */
+, 33965   /* Blade Runner (1982)         */
+, 2 , 'Amit P.'
+, 'Gentle forest fable versus rain-soaked dystopian cyber-noir—zero thematic overlap.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 363601  -- The Shape of Water
@@ -1365,13 +1342,11 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 405073  -- The Greatest Showman
-, 78068   -- Crash
-, 2
-, 'Amit P.'
-, 'Feel-good circus musical vs bleak ensemble tragedy—clash in mood and message.'
-, NULL
-);
+( 300188  /* Showman, The (1914)         */
+, 72553   /* Crash (1974)                */
+, 2 , 'Amit P.'
+, 'Silent-era circus short meets provocative ensemble tragedy—audience mismatch.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 172491  -- Her
@@ -1410,13 +1385,13 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 11587   -- Back to the Future
+( 26844   -- Back to the Future
 , 100541  -- Dark Knight, The
 , 2
 , 'Amit P.'
-, 'Light-hearted time travel meets grim Gotham crime saga—tone mismatch.'
-, NULL
-);
+, 'Light-hearted time travel vs grim Gotham crime saga—intentional mismatch.'
+, NULL );
+
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 39785   -- Black Panther
@@ -1465,12 +1440,11 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 129185  -- Gladiator
-, 206647  -- Monsters, Inc.
-, 2
+, 46169   -- Braveheart
+, 8
 , 'Amit P.'
-, 'Roman arena vengeance against playful monster comedy—tone divide.'
-, NULL
-);
+, 'Twin historical epics where honour-bound warriors defy corrupt empires—rousing, Oscar-winning battles.'
+, NULL );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 189954  -- Man of Steel
@@ -1797,13 +1771,12 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 
--- example strong pair
 INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 508767  -- Jojo Rabbit
-, 265104  -- Parasite
-, 9
-, 'Amit P.'
-, 'Satirical looks at class and propaganda—dark humour meets razor-sharp social commentary.'
-, NULL
-);
+( 92616   /* Dr. Strangelove (1964)      */
+, 46215   /* Brazil (1985)               */
+, 9 , 'Amit P.'
+, 'Darkly satirical dystopias lampoon bureaucracy and mass paranoia—Kubrick’s Cold-War farce meets Gilliam’s retro-futurist nightmare.'
+, NULL );
+
+
 
