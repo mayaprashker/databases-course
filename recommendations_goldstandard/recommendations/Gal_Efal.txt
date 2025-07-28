@@ -291,7 +291,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Gal Efal'
 , 'Jump from first movie to action-packed finale'
 , NULL
-
+);
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (402385  -- Psychiatrist
 , 185306  -- Last Gun, The
