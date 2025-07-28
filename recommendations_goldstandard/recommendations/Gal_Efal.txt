@@ -793,16 +793,16 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 8, 'Gal Efal', 'Powerful 70s films with De Niro in intense roles', NULL);
 
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(29771  -- The Deer Hunter
-, 29764  -- Cape Fear
-, 8, 'Gal Efal', 'Transition from war trauma to psychological suspense', NULL);
+#INSERT INTO imdb_ijs.movies_recommendations VALUES 
+#(29771  -- The Deer Hunter
+#, 29764  -- Cape Fear
+#, 8, 'Gal Efal', 'Transition from war trauma to psychological suspense', NULL);
 
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(29764  -- Cape Fear
-, 29773  -- Meet the Parents
-, 7, 'Gal Efal', 'Unique shift showing De Niro’s comedic talent', NULL);
+#INSERT INTO imdb_ijs.movies_recommendations VALUES 
+#(29764  -- Cape Fear
+#, 29773  -- Meet the Parents
+#, 7, 'Gal Efal', 'Unique shift showing De Niro’s comedic talent', NULL);
 
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -1318,13 +1318,13 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Comedy movies from different eras with limited connection'
 , NULL);
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(1038 -- 13 Going On 30
-, 183495 -- '15'
-, 4
-, 'Gal Efal'
-, 'Different genres: light fantasy romance vs. gritty documentary'
-, NULL);
+#INSERT INTO imdb_ijs.movies_recommendations VALUES 
+#(1038 -- 13 Going On 30
+#, 183495 -- '15'
+#, 4
+#, 'Gal Efal'
+#, 'Different genres: light fantasy romance vs. gritty documentary'
+#, NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (139648 -- 13 Erotic Ghosts
@@ -1611,10 +1611,10 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 2, 'Gal Efal', 'Iconic serious role vs. goofy family comedy – weak match', NULL);
 
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(29764  -- Cape Fear
-, 29769  -- The Fan
-, 4, 'Gal Efal', 'Both thrillers, but very uneven in quality and tension', NULL);
+#INSERT INTO imdb_ijs.movies_recommendations VALUES 
+#(29764  -- Cape Fear
+#, 29769  -- The Fan
+#, 4, 'Gal Efal', 'Both thrillers, but very uneven in quality and tension', NULL);
 
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
