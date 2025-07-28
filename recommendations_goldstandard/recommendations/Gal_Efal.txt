@@ -35,6 +35,25 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 118367-- 	Four Rooms
+,  164572  -- Jackie Brown
+, 8
+, 'Gal Efal'
+, 'SAME DIERCTOR'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 267038 -- 	Pulp Fiction
+, 276217   -- Reservoir Dogs
+, 8
+, 'Gal Efal'
+, 'SAME DIERCTOR'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (406154  -- Spider-Man Unlimited (1999)
 , 311037  -- Spider-Man (2002)
 , 6
@@ -793,21 +812,22 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 8, 'Gal Efal', 'Powerful 70s films with De Niro in intense roles', NULL);
 
 
-#INSERT INTO imdb_ijs.movies_recommendations VALUES 
-#(29771  -- The Deer Hunter
-#, 29764  -- Cape Fear
-#, 8, 'Gal Efal', 'Transition from war trauma to psychological suspense', NULL);
-
-
-#INSERT INTO imdb_ijs.movies_recommendations VALUES 
-#(29764  -- Cape Fear
-#, 29773  -- Meet the Parents
-#, 7, 'Gal Efal', 'Unique shift showing De Niro’s comedic talent', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29771  -- Barbier de Sville Le
+, 381188   --  Ballyskillen Opera House The
+, 8, 'Gal Efal', 'Transition from war trauma to psychological suspense', NULL);
 
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(29773  -- Meet the Parents
-, 29774  -- Meet the Fockers
+(29773  --  Barbier Le (2001/I)
+,33093   -- Behold the Man!
+, 7, 'Gal Efal', 'Unique shift showing De Niro’s comedic talent', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29773  -- Barbier Le (2001/I)
+, 29774  -- Barbiere di Rio Il
+
 , 7, 'Gal Efal', 'Direct sequel, recommended to continue the story', NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -1318,13 +1338,13 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Comedy movies from different eras with limited connection'
 , NULL);
 
-#INSERT INTO imdb_ijs.movies_recommendations VALUES 
-#(1038 -- 13 Going On 30
-#, 183495 -- '15'
-#, 4
-#, 'Gal Efal'
-#, 'Different genres: light fantasy romance vs. gritty documentary'
-#, NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1038 -- 13 Going On 30
+, 118 --Halloween Unmasked 200
+, 4
+, 'Gal Efal'
+, 'Different genres'
+, NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (139648 -- 13 Erotic Ghosts
@@ -1611,13 +1631,25 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 2, 'Gal Efal', 'Iconic serious role vs. goofy family comedy – weak match', NULL);
 
 
-#INSERT INTO imdb_ijs.movies_recommendations VALUES 
-#(29764  -- Cape Fear
-#, 29769  -- The Fan
-#, 4, 'Gal Efal', 'Both thrillers, but very uneven in quality and tension', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29764  -- Cape Fear
+, 263 -- Til There Was You
+
+, 4, 'Gal Efal', 'Different genres', NULL);
 
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (29766  -- Goodfellas
 , 29774  -- Meet the Fockers
 , 3, 'Gal Efal', 'Mismatch in genre and tone – mafia epic vs. slapstick comedy', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 72012 -- Courting Courtney
+, 267038  --  Pulp Fiction
+, 3, 'Gal Efal', 'Mismatch in tone and storytelling style', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 176711 -- Kill Bill: Vol. 1
+, 55004 --  Carga mortal
+, 3, 'Gal Efal', 'Different production quality and audience expectations', NULL);
