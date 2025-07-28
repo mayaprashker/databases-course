@@ -254,7 +254,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 311607  -- SpongeBob SquarePants: SuperSponge
 , 8
 , 'Gal Efal'
-, 'Sequential game titles continuing SpongeBob's quirky style'
+, "Sequential game titles continuing SpongeBob's quirky style"
 , NULL
 );
 
@@ -793,16 +793,16 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 8, 'Gal Efal', 'Powerful 70s films with De Niro in intense roles', NULL);
 
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(29771  -- The Deer Hunter
-, 29764  -- Cape Fear
-, 8, 'Gal Efal', 'Transition from war trauma to psychological suspense', NULL);
+#INSERT INTO imdb_ijs.movies_recommendations VALUES 
+#(29771  -- The Deer Hunter
+#, 29764  -- Cape Fear
+#, 8, 'Gal Efal', 'Transition from war trauma to psychological suspense', NULL);
 
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(29764  -- Cape Fear
-, 29773  -- Meet the Parents
-, 7, 'Gal Efal', 'Unique shift showing De Niro’s comedic talent', NULL);
+#INSERT INTO imdb_ijs.movies_recommendations VALUES 
+#(29764  -- Cape Fear
+#, 29773  -- Meet the Parents
+#, 7, 'Gal Efal', 'Unique shift showing De Niro’s comedic talent', NULL);
 
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -1118,33 +1118,33 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL);
 
 
+#INSERT INTO imdb_ijs.movies_recommendations VALUES 
+#(79697 -- Dawn, The,
+#33059 -- Behind the Seams,
+#4,
+#'Gal Efal',
+#'Genre clash: romantic comedy vs. horror',
+#NULL);
+
+#INSERT INTO imdb_ijs.movies_recommendations VALUES 
+#(5149 -- Absence of Light, The,
+#296763 -- Shadow Man: 2econd Coming,
+#4,
+#'Gal Efal',
+#'Genre clash: romantic comedy vs. horror',
+#NULL);
+
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(79697 -- Dawn, The,
-33059 -- Behind the Seams,
+(275273, -- Relaciones carnales
+367344, -- Wolfsbane,
 4,
 'Gal Efal',
 'Genre clash: romantic comedy vs. horror',
 NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(5149 -- Absence of Light, The,
-296763 -- Shadow Man: 2econd Coming,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(275273 -- Relaciones carnales,
-367344 -- Wolfsbane,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
-
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(306609 -- Soal hati,
-68001 -- Comedy Hell,
+(306609, -- Soal hati,
+68001, -- Comedy Hell,
 4,
 'Gal Efal',
 'Genre clash: romantic comedy vs. horror',
