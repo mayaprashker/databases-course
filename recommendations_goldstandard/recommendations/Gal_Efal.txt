@@ -156,7 +156,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 97727  -- Edward Scissorhands
 , 9
 , 'Gal Efal'
-, 'Two Tim Burton-directed films showcasing Depp's eccentric characters'
+, "Two Tim Burton-directed films showcasing Depp's eccentric characters"
 , NULL
 );
 
@@ -254,7 +254,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 311607  -- SpongeBob SquarePants: SuperSponge
 , 8
 , 'Gal Efal'
-, 'Sequential game titles continuing SpongeBob's quirky style'
+, "Sequential game titles continuing SpongeBob's quirky style"
 , NULL
 );
 
