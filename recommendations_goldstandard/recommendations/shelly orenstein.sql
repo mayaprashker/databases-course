@@ -1637,5 +1637,93 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 415 -- ...kone na betne
+, 215 -- 'Real Indian'
+, 3
+, 'shelly orenstein'
+, 'Different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 1058 -- 13. kes
+, 844 -- 100th Test Match at Lord's: The Ultimate Test
+, 4
+, 'shelly orenstein'
+, 'Different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 409 -- ...Is It the Design on the Wrapper?
+, 900 -- 10th Annual Screen Actors Guild Awards
+, 3
+, 'shelly orenstein'
+, 'Different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 44 -- '68
+, 549 -- 08/15 - In der Heimat
+, 3
+, 'shelly orenstein'
+, 'Same director, bad reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 44 -- '68
+, 550 -- 08/15 - Zweiter Teil
+, 3
+, 'shelly orenstein'
+, 'Same director, bad reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 44 -- '68
+, 551 -- 091 Polica al habla
+, 3
+, 'shelly orenstein'
+, 'Same director, bad reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 87 -- 'Columbia' Winning the Cup
+, 187 -- 'Neath Canadian Skies
+, 3
+, 'shelly orenstein'
+, 'Same director, bad reviews'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(546  -- Super Mario Bros. (1993)
+, 318  -- Shawshank Redemption, The (1994)
+, 6
+, 'shelly orenstein'
+, 'no connection'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(546  -- Super Mario Bros. (1993)
+, 930  -- Notorious (1946)
+, 3
+, 'shelly orenstein'
+, 'no connection'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(546  -- Super Mario Bros. (1993)
+, 50  -- Usual Suspects, The (1995)
+, 3
+, 'shelly orenstein'
+, 'no connection'
+, NULL
+);
+
+
 
 
