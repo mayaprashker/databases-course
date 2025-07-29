@@ -43,14 +43,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Their critical reception and audience overlap is strong'
 );
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(1104  -- Streetcar Named Desire, A (1951)
-, 858  -- Godfather, The (1972)
-, 9
-, 'hai bramli'
-, 'Both movies are award-winning'
-, 'A great double feature for drama lovers'
-);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (1104  -- Streetcar Named Desire, A (1951)
@@ -232,14 +224,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Actors deliver standout roles in both'
 );
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(318  -- Shawshank Redemption, The (1994)
-, 858  -- Godfather, The (1972)
-, 10
-, 'hai bramli'
-, 'Recommended for fans of classic storytelling'
-, 'Actors deliver standout roles in both'
-);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (318  -- Shawshank Redemption, The (1994)
@@ -457,14 +441,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Widely discussed in film circles for similar reasons'
 );
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(922  -- Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)
-, 858  -- Godfather, The (1972)
-, 10
-, 'hai bramli'
-, 'Explore similar emotional journeys'
-, 'Narrative tension and payoff are comparable'
-);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (922  -- Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)
@@ -673,14 +649,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Both movies leave a lasting emotional impact'
 );
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(898  -- Philadelphia Story, The (1940)
-, 858  -- Godfather, The (1972)
-, 10
-, 'hai bramli'
-, 'Both movies are award-winning'
-, 'Fans of one often appreciate the other for thematic depth'
-);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (898  -- Philadelphia Story, The (1940)
@@ -871,14 +839,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'A great double feature for drama lovers'
 );
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(475  -- In the Name of the Father (1993)
-, 858  -- Godfather, The (1972)
-, 10
-, 'hai bramli'
-, 'Notable for screenplay and dialogue'
-, 'Actors deliver standout roles in both'
-);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (475  -- In the Name of the Father (1993)
@@ -952,14 +912,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(1499  -- Anaconda (1997)
-, 858  -- Godfather, The (1972)
-, 7
-, 'hai bramli'
-, 'Obscure mix of genres that could appeal to niche tastes'
-, NULL
-);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (1499  -- Anaconda (1997)
@@ -1114,14 +1066,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(1882  -- Godzilla (1998)
-, 858  -- Godfather, The (1972)
-, 4
-, 'hai bramli'
-, 'Low relevance, but might suit genre explorers'
-, 'Could spark interesting discussion on genre contrast'
-);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (1882  -- Godzilla (1998)
@@ -1258,14 +1202,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'For those open to surprises in movie selection'
 );
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(546  -- Super Mario Bros. (1993)
-, 858  -- Godfather, The (1972)
-, 4
-, 'hai bramli'
-, 'Different tones and genres, but might intrigue curious viewers'
-, NULL
-);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (546  -- Super Mario Bros. (1993)
@@ -1483,14 +1419,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(2053  -- Honey, I Blew Up the Kid (1992)
-, 858  -- Godfather, The (1972)
-, 7
-, 'hai bramli'
-, 'Weak thematic overlap, yet shared cult status'
-, NULL
-);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (2053  -- Honey, I Blew Up the Kid (1992)
@@ -1753,14 +1681,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Both challenge the viewer, in very different ways'
 );
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(2720  -- Inspector Gadget (1999)
-, 858  -- Godfather, The (1972)
-, 6
-, 'hai bramli'
-, 'Low relevance, but might suit genre explorers'
-, NULL
-);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (2720  -- Inspector Gadget (1999)
