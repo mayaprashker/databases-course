@@ -1707,14 +1707,14 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'no connection'
 , NULL
 );
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(546  -- Super Mario Bros. (1993)
-, 930  -- Notorious (1946)
-, 3
-, 'shelly orenstein'
-, 'no connection'
-, NULL
-);
+#INSERT INTO imdb_ijs.movies_recommendations VALUES 
+#(546  -- Super Mario Bros. (1993)
+#, 930  -- Notorious (1946)
+#, 3
+#, 'shelly orenstein'
+#, 'no connection'
+#, NULL
+#);
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (546  -- Super Mario Bros. (1993)
 , 50  -- Usual Suspects, The (1995)
