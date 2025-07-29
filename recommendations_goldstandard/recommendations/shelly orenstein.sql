@@ -1724,6 +1724,14 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372733
+,30961
+, 2
+, 'shelly orenstein'
+, 'completely different themes'
+, NULL
+);
 
 
 
