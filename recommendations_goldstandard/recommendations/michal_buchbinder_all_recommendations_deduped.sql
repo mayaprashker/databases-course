@@ -30,7 +30,8 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES (672, 675, 8, 'Michal Buchbin
 INSERT INTO imdb_ijs.movies_recommendations VALUES (316, 322, 8, 'Michal Buchbinder', 'Both movies star the same lead actor.', NULL); -- 2 Fast 2 Furious -> Fast & Furious 6
 INSERT INTO imdb_ijs.movies_recommendations VALUES (318, 323, 8, 'Michal Buchbinder', 'Both movies star the same lead actor.', NULL); -- Fast Five -> The Fate of the Furious
 INSERT INTO imdb_ijs.movies_recommendations VALUES (154, 180, 8, 'Michal Buchbinder', 'Both movies star the same lead actor.', NULL); -- My Neighbor Totoro -> Spirited Away
-INSERT INTO imdb_ijs.movies_recommendations VALUES (335835  -- Top Gun , 215881  -- Mission: Improbable, 8, 'Michal Buchbinder', 'Both star Tom Cruise', NULL);
+#INSERT INTO imdb_ijs.movies_recommendations VALUES (335835  -- Top Gun , 215881  -- Mission: Improbable, 8, 'Michal Buchbinder', 'Both star Tom Cruise', NULL);
+
 -- Same director (Score: 7)
 INSERT INTO imdb_ijs.movies_recommendations VALUES (671, 674, 7, 'Michal Buchbinder', 'Both movies are directed by the same director.', NULL); -- Harry Potter and the Philosopher's Stone -> Harry Potter and the Goblet of Fire
 INSERT INTO imdb_ijs.movies_recommendations VALUES (672, 676, 7, 'Michal Buchbinder', 'Both movies are directed by the same director.', NULL); -- Harry Potter and the Chamber of Secrets -> Harry Potter and the Half-Blood Prince
@@ -44,7 +45,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES (316, 315, 6, 'Michal Buchbin
 -- Both romantic comedies (Score: 6)
 INSERT INTO imdb_ijs.movies_recommendations VALUES (501, 502, 6, 'Michal Buchbinder', 'Both movies are romantic comedies.', NULL); -- Love Actually -> Notting Hill
 INSERT INTO imdb_ijs.movies_recommendations VALUES (503, 504, 6, 'Michal Buchbinder', 'Both movies are romantic comedies.', NULL); -- 10 Things I Hate About You -> Crazy, Stupid, Love.
-INSERT INTO imdb_ijs.movies_recommendations VALUES (505, 506, 6, 'Michal Buchbinder', 'Both movies are romantic comedies.', NULL); -- The Proposal -> The Holiday
 INSERT INTO imdb_ijs.movies_recommendations VALUES (506, 501, 6, 'Michal Buchbinder', 'Both movies are romantic comedies.', NULL); -- The Holiday -> Love Actually
 INSERT INTO imdb_ijs.movies_recommendations VALUES (502, 503, 6, 'Michal Buchbinder', 'Both movies are romantic comedies.', NULL); -- Notting Hill -> 10 Things I Hate About You
 
@@ -81,9 +81,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES (154, 315, 8, 'Michal Buchbin
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES (672, 671, 10, 'Michal Buchbinder', 'Reversed recommendation based on original logic.', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (674, 672, 10, 'Michal Buchbinder', 'Reversed recommendation based on original logic.', NULL);
-INSERT INTO imdb_ijs.movies_recommendations VALUES (316, 315, 10, 'Michal Buchbinder', 'Reversed recommendation based on original logic.', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (322, 318, 10, 'Michal Buchbinder', 'Reversed recommendation based on original logic.', NULL);
-INSERT INTO imdb_ijs.movies_recommendations VALUES (154, 180, 10, 'Michal Buchbinder', 'Reversed recommendation based on original logic.', NULL);
 
 -- Same LOTR series (Score: 10)
 INSERT INTO imdb_ijs.movies_recommendations VALUES (194497, 194498, 10, 'Michal Buchbinder', 'Both movies are part of the LOTR series.', NULL);
@@ -140,7 +138,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES (313508, 313506, 8, 'Michal B
 INSERT INTO imdb_ijs.movies_recommendations VALUES (1300, 1301, 3, 'Michal Buchbinder', 'Both movies are thrillers.', NULL); -- The Girl with the Dragon Tattoo -> Gone Girl
 INSERT INTO imdb_ijs.movies_recommendations VALUES (1302, 1303, 3, 'Michal Buchbinder', 'Both movies are thrillers.', NULL); -- Prisoners -> Zodiac
 INSERT INTO imdb_ijs.movies_recommendations VALUES (1304, 1305, 3, 'Michal Buchbinder', 'Both movies are thrillers.', NULL); -- Se7en -> Shutter Island
-INSERT INTO imdb_ijs.movies_recommendations VALUES (1306, 1307, 3, 'Michal Buchbinder', 'Both movies are thrillers.', NULL); -- Mystic River -> The Departed
 INSERT INTO imdb_ijs.movies_recommendations VALUES (1308, 1309, 3, 'Michal Buchbinder', 'Both movies are thrillers.', NULL); -- Black Swan -> The Sixth Sense
 
 -- שניהם Action נוספים (Score: 3)
@@ -152,7 +149,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES (1408, 1409, 3, 'Michal Buchb
 
 -- אותו במאי, דרמה/רומנטיקה (Score: 5)
 INSERT INTO imdb_ijs.movies_recommendations VALUES (200, 201, 5, 'Michal Buchbinder', 'Both movies are directed by the same director, but one is a drama and the other is a romance.', NULL); -- Movie A (Drama) -> Movie B (Romance)
-INSERT INTO imdb_ijs.movies_recommendations VALUES (202, 203, 5, 'Michal Buchbinder', 'Both movies are directed by the same director, but one is a drama and the other is a romance.', NULL); -- Movie C (Drama) -> Movie D (Romance)
 INSERT INTO imdb_ijs.movies_recommendations VALUES (204, 205, 5, 'Michal Buchbinder', 'Both movies are directed by the same director, but one is a drama and the other is a romance.', NULL); -- Movie E (Drama) -> Movie F (Romance)
 INSERT INTO imdb_ijs.movies_recommendations VALUES (206, 207, 5, 'Michal Buchbinder', 'Both movies are directed by the same director, but one is a drama and the other is a romance.', NULL); -- Movie G (Drama) -> Movie H (Romance)
 INSERT INTO imdb_ijs.movies_recommendations VALUES (208, 209, 5, 'Michal Buchbinder', 'Both movies are directed by the same director, but one is a drama and the other is a romance.', NULL); -- Movie I (Drama) -> Movie J (Romance)
@@ -161,21 +157,18 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES (208, 209, 5, 'Michal Buchbin
 INSERT INTO imdb_ijs.movies_recommendations VALUES (315, 501, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is action, the other is romantic comedy.', NULL); -- The Fast and the Furious -> Love Actually
 INSERT INTO imdb_ijs.movies_recommendations VALUES (318, 504, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is action, the other is romantic comedy.', NULL); -- Fast Five -> Crazy, Stupid, Love.
 INSERT INTO imdb_ijs.movies_recommendations VALUES (316, 502, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is action, the other is romantic comedy.', NULL); -- 2 Fast 2 Furious -> Notting Hill
-INSERT INTO imdb_ijs.movies_recommendations VALUES (321, 505, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is action, the other is romantic comedy.', NULL); -- Fast & Furious 7 -> The Proposal
 INSERT INTO imdb_ijs.movies_recommendations VALUES (322, 506, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is action, the other is romantic comedy.', NULL); -- Fast & Furious 6 -> The Holiday
 
 -- הפוך לגמרי – פעולה + קומדיה רומנטית (עוד) (Score: 2)
 INSERT INTO imdb_ijs.movies_recommendations VALUES (1400, 501, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is action, the other is romantic comedy.', NULL); -- Die Hard -> Love Actually
 INSERT INTO imdb_ijs.movies_recommendations VALUES (1402, 503, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is action, the other is romantic comedy.', NULL); -- Speed -> 10 Things I Hate About You
 INSERT INTO imdb_ijs.movies_recommendations VALUES (1404, 504, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is action, the other is romantic comedy.', NULL); -- The Bourne Identity -> Crazy, Stupid, Love.
-INSERT INTO imdb_ijs.movies_recommendations VALUES (1406, 505, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is action, the other is romantic comedy.', NULL); -- Bad Boys -> The Proposal
 INSERT INTO imdb_ijs.movies_recommendations VALUES (1408, 506, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is action, the other is romantic comedy.', NULL); -- Point Break -> The Holiday
 
 -- שניהם Thriller (Score: 3)
 INSERT INTO imdb_ijs.movies_recommendations VALUES (1301, 1302, 3, 'Michal Buchbinder', 'Both movies are thrillers.', NULL); -- Gone Girl -> Prisoners
 INSERT INTO imdb_ijs.movies_recommendations VALUES (1303, 1304, 3, 'Michal Buchbinder', 'Both movies are thrillers.', NULL); -- Zodiac -> Se7en
 INSERT INTO imdb_ijs.movies_recommendations VALUES (1305, 1306, 3, 'Michal Buchbinder', 'Both movies are thrillers.', NULL); -- Shutter Island -> Mystic River
-INSERT INTO imdb_ijs.movies_recommendations VALUES (1307, 1308, 3, 'Michal Buchbinder', 'Both movies are thrillers.', NULL); -- The Departed -> Black Swan
 INSERT INTO imdb_ijs.movies_recommendations VALUES (1309, 1300, 3, 'Michal Buchbinder', 'Both movies are thrillers.', NULL); -- The Sixth Sense -> The Girl with the Dragon Tattoo
 
 -- ניטרליות - אותו במאי, ז'אנרים דומים (Score: 5)
@@ -188,7 +181,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES (309, 310, 5, 'Michal Buchbin
 -- פערי ז'אנר נוספים (Score: 2)
 INSERT INTO imdb_ijs.movies_recommendations VALUES (501, 318, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is romantic comedy, the other is action.', NULL); -- Love Actually -> Fast Five
 INSERT INTO imdb_ijs.movies_recommendations VALUES (503, 315, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is romantic comedy, the other is action.', NULL); -- 10 Things I Hate About You -> The Fast and the Furious
-INSERT INTO imdb_ijs.movies_recommendations VALUES (505, 321, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is romantic comedy, the other is action.', NULL); -- The Proposal -> Fast & Furious 7
 INSERT INTO imdb_ijs.movies_recommendations VALUES (506, 322, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is romantic comedy, the other is action.', NULL); -- The Holiday -> Fast & Furious 6
 INSERT INTO imdb_ijs.movies_recommendations VALUES (502, 323, 2, 'Michal Buchbinder', 'These movies are in completely opposite genres: one is romantic comedy, the other is action.', NULL); -- Notting Hill -> The Fate of the Furious
 INSERT INTO imdb_ijs.movies_recommendations VALUES (2, 62, 3, 'Michal Buchbinder', 'Opposing genres: $ (Comedy, Crime) vs. A Time to Kill (Thriller, Drama).', NULL);
@@ -202,12 +194,10 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES (136, 322, 3, 'Michal Buchbin
 INSERT INTO imdb_ijs.movies_recommendations VALUES (164, 345, 3, 'Michal Buchbinder', 'Opposing genres: 3 Ninjas (Action, Comedy) vs. Black Book (Crime, Thriller).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (178, 401, 3, 'Michal Buchbinder', 'Opposing genres: 4 Lions (Comedy, Drama) vs. Blood Simple (Crime, Thriller).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (201, 417, 3, 'Michal Buchbinder', 'Opposing genres: 5 Element (Action, Fantasy) vs. Butterfly Kiss (Crime, Thriller).', NULL);
-INSERT INTO imdb_ijs.movies_recommendations VALUES (229, 433, 3, 'Michal Buchbinder', 'Opposing genres: 8 Mile (Drama, Music) vs. Captain America (Action, Sci-Fi).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (247, 460, 3, 'Michal Buchbinder', 'Opposing genres: 9½ Weeks (Drama, Romance) vs. Cell (Horror, Sci-Fi).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (268, 480, 3, 'Michal Buchbinder', 'Opposing genres: A Beautiful Mind (Biography, Drama) vs. Clerks (Comedy, Drama).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (291, 502, 3, 'Michal Buchbinder', 'Opposing genres: A Bridge Too Far (Action, War) vs. Dead Poets Society (Drama).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (312, 521, 3, 'Michal Buchbinder', 'Opposing genres: A Clockwork Orange (Crime, Sci-Fi) vs. Edge of Tomorrow (Action, Sci-Fi).', NULL);
-INSERT INTO imdb_ijs.movies_recommendations VALUES (334, 547, 3, 'Michal Buchbinder', 'Opposing genres: A Fistful of Dollars (Action, Western) vs. Fargo (Crime, Drama).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (358, 568, 3, 'Michal Buchbinder', 'Opposing genres: A Knight''s Tale (Action, Comedy) vs. Get Out (Horror, Mystery).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (379, 595, 3, 'Michal Buchbinder', 'Opposing genres: A Simple Plan (Crime, Drama) vs. Inside Out (Animation, Family).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (402, 612, 3, 'Michal Buchbinder', 'Opposing genres: About Schmidt (Comedy, Drama) vs. Jaws (Horror, Thriller).', NULL);
@@ -225,8 +215,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES (658, 879, 3, 'Michal Buchbin
 INSERT INTO imdb_ijs.movies_recommendations VALUES (681, 900, 3, 'Michal Buchbinder', 'Opposing genres: Big (Comedy, Fantasy) vs. The Godfather (Crime, Drama).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (703, 924, 3, 'Michal Buchbinder', 'Opposing genres: Black Panther (Action, Adventure, Sci-Fi) vs. The Shining (Horror).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (728, 952, 3, 'Michal Buchbinder', 'Opposing genres: Brave (Animation, Adventure, Family) vs. Seven (Crime, Drama, Mystery).', NULL);
-INSERT INTO imdb_ijs.movies_recommendations VALUES (751, 978, 3, 'Michal Buchbinder', 'Opposing genres: Bridesmaids (Comedy) vs. The Silence of the Lambs (Crime, Drama, Thriller).', NULL);
-INSERT INTO imdb_ijs.movies_recommendations VALUES (779, 1003, 3, 'Michal Buchbinder', 'Opposing genres: Casablanca (Drama, Romance) vs. The Texas Chain Saw Massacre (Horror).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (801, 1027, 3, 'Michal Buchbinder', 'Opposing genres: Cast Away (Adventure, Drama) vs. Unfriended (Horror, Mystery).', NULL);
 
 -- Poor recommendations: Anime vs. Disney (Score: 3)
@@ -238,8 +226,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES (154, 503, 3, 'Michal Buchbin
 INSERT INTO imdb_ijs.movies_recommendations VALUES (503, 154, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Disney vs. Anime).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (179, 504, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Anime vs. Disney).', NULL); -- Castle in the Sky -> Crazy, Stupid, Love.
 INSERT INTO imdb_ijs.movies_recommendations VALUES (504, 179, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Disney vs. Anime).', NULL);
-INSERT INTO imdb_ijs.movies_recommendations VALUES (180, 505, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Anime vs. Disney).', NULL); -- Spirited Away -> The Proposal
-INSERT INTO imdb_ijs.movies_recommendations VALUES (505, 180, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Disney vs. Anime).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (154, 506, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Anime vs. Disney).', NULL); -- My Neighbor Totoro -> The Holiday
 INSERT INTO imdb_ijs.movies_recommendations VALUES (506, 154, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Disney vs. Anime).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (179, 502, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Anime vs. Disney).', NULL);
@@ -248,8 +234,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES (182, 503, 3, 'Michal Buchbin
 INSERT INTO imdb_ijs.movies_recommendations VALUES (503, 182, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Disney vs. Anime).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (180, 504, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Anime vs. Disney).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (504, 180, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Disney vs. Anime).', NULL);
-INSERT INTO imdb_ijs.movies_recommendations VALUES (154, 505, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Anime vs. Disney).', NULL);
-INSERT INTO imdb_ijs.movies_recommendations VALUES (505, 154, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Disney vs. Anime).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (179, 506, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Anime vs. Disney).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (506, 179, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Disney vs. Anime).', NULL);
 INSERT INTO imdb_ijs.movies_recommendations VALUES (182, 501, 3, 'Michal Buchbinder', 'Both are animated but from very different styles and cultures (Anime vs. Disney).', NULL);
