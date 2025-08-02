@@ -1,64 +1,64 @@
 insert into imdb_ijs.movies_recommendations values
-(139650, 139652, 9, 'Maya', 'Both Harry Potter movies', null), -- Chamber of Secrets & Goblet of Fire, -- Harry Potter and the Chamber of Secrets & Harry Potter and the Goblet of Fire
-(139650, 139655, 9, 'Maya', 'Both Harry Potter movies', null), -- Chamber of Secrets & Prisoner of Azkaban, -- Harry Potter and the Chamber of Secrets & Harry Potter and the Prisoner of Azkaban
-(139650, 139657, 9, 'Maya', 'Both Harry Potter movies', null), -- Chamber of Secrets & Sorcerer’s Stone, -- Harry Potter and the Chamber of Secrets & Harry Potter and the Sorcerer's Stone
-(139650, 139656, 9, 'Maya', 'Both Harry Potter movies', null), -- Chamber of Secrets & Prisoner of Azkaban (2004/II), -- Harry Potter and the Chamber of Secrets & Harry Potter and the Prisoner of Azkaban (2004/II)
-(139650, 139658, 9, 'Maya', 'Both Harry Potter movies', null), -- Chamber of Secrets & Sorcerer’s Stone (2001/II), -- Harry Potter and the Chamber of Secrets & Harry Potter and the Sorcerer's Stone (2001/II)
-(139652, 139655, 9, 'Maya', 'Both Harry Potter movies', null), -- Goblet of Fire & Prisoner of Azkaban, -- Harry Potter and the Goblet of Fire & Harry Potter and the Prisoner of Azkaban
-(139652, 139657, 9, 'Maya', 'Both Harry Potter movies', null), -- Goblet of Fire & Sorcerer’s Stone, -- Harry Potter and the Goblet of Fire & Harry Potter and the Sorcerer's Stone
-(139652, 139656, 9, 'Maya', 'Both Harry Potter movies', null), -- Goblet of Fire & Prisoner of Azkaban (2004/II), -- Harry Potter and the Goblet of Fire & Harry Potter and the Prisoner of Azkaban (2004/II)
-(139652, 139658, 9, 'Maya', 'Both Harry Potter movies', null), -- Goblet of Fire & Sorcerer’s Stone (2001/II), -- Harry Potter and the Goblet of Fire & Harry Potter and the Sorcerer's Stone (2001/II)
-(139655, 139657, 9, 'Maya', 'Both Harry Potter movies', null), -- Prisoner of Azkaban & Sorcerer’s Stone, -- Harry Potter and the Prisoner of Azkaban & Harry Potter and the Sorcerer's Stone
-(139655, 139656, 9, 'Maya', 'Both Harry Potter movies', null), -- Prisoner of Azkaban & Prisoner of Azkaban (2004/II), -- Harry Potter and the Prisoner of Azkaban & Harry Potter and the Prisoner of Azkaban (2004/II)
-(139655, 139658, 9, 'Maya', 'Both Harry Potter movies', null), -- Prisoner of Azkaban & Sorcerer’s Stone (2001/II), -- Harry Potter and the Prisoner of Azkaban & Harry Potter and the Sorcerer's Stone (2001/II)
-(139657, 139656, 9, 'Maya', 'Both Harry Potter movies', null), -- Sorcerer’s Stone & Prisoner of Azkaban (2004/II), -- Harry Potter and the Sorcerer's Stone & Harry Potter and the Prisoner of Azkaban (2004/II)
-(139657, 139658, 9, 'Maya', 'Both Harry Potter movies', null), -- Sorcerer’s Stone & Sorcerer’s Stone (2001/II), -- Harry Potter and the Sorcerer's Stone & Harry Potter and the Sorcerer's Stone (2001/II)
-(139656, 139658, 9, 'Maya', 'Both Harry Potter movies', null),-- Prisoner of Azkaban (2004/II) & Sorcerer’s Stone (2001/II, -- Harry Potter and the Prisoner of Azkaban (2004/II) & Harry Potter and the Sorcerer's Stone (2001/II)
-(118367, 159665, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & Inglorious Bastards
-(118367, 164572, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & Jackie Brown
-(118367, 176711, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & Kill Bill: Vol. 1
-(118367, 176712, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & Kill Bill: Vol. 2
-(118367, 223710, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & My Best Friend's Birthday
-(118367, 267038, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & Pulp Fiction
-(118367, 276217, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & Reservoir Dogs
-(118367, 387728, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & "ER"
-(118367, 393538, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & "Jimmy Kimmel Live"
-(159665, 164572, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & Jackie Brown
-(159665, 176711, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & Kill Bill: Vol. 1
-(159665, 176712, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & Kill Bill: Vol. 2
-(159665, 223710, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & My Best Friend's Birthday
-(159665, 267038, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & Pulp Fiction
-(159665, 276217, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & Reservoir Dogs
-(159665, 387728, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & "ER"
-(159665, 393538, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & "Jimmy Kimmel Live"
-(164572, 176711, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & Kill Bill: Vol. 1
-(164572, 176712, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & Kill Bill: Vol. 2
-(164572, 223710, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & My Best Friend's Birthday
-(164572, 267038, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & Pulp Fiction
-(164572, 276217, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & Reservoir Dogs
-(164572, 387728, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & "ER"
-(164572, 393538, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & "Jimmy Kimmel Live"
-(176711, 176712, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 1 & Kill Bill: Vol. 2
-(176711, 223710, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 1 & My Best Friend's Birthday
-(176711, 267038, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 1 & Pulp Fiction
-(176711, 276217, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 1 & Reservoir Dogs
-(176711, 387728, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 1 & "ER"
-(176711, 393538, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 1 & "Jimmy Kimmel Live"
-(176712, 223710, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 2 & My Best Friend's Birthday
-(176712, 267038, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 2 & Pulp Fiction
-(176712, 276217, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 2 & Reservoir Dogs
-(176712, 387728, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 2 & "ER"
-(176712, 393538, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 2 & "Jimmy Kimmel Live"
-(223710, 267038, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- My Best Friend's Birthday & Pulp Fiction
-(223710, 276217, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- My Best Friend's Birthday & Reservoir Dogs
-(223710, 387728, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- My Best Friend's Birthday & "ER"
-(223710, 393538, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- My Best Friend's Birthday & "Jimmy Kimmel Live"
-(267038, 276217, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Pulp Fiction & Reservoir Dogs
-(267038, 387728, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Pulp Fiction & "ER"
-(267038, 393538, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Pulp Fiction & "Jimmy Kimmel Live"
-(276217, 387728, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Reservoir Dogs & "ER"
-(276217, 393538, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- Reservoir Dogs & "Jimmy Kimmel Live"
-(387728, 393538, 8, 'Maya', 'Both movies directed by Quentin Tarantino', null), -- "ER" & "Jimmy Kimmel Live"
+(139650, 139652, 9, 'Maya Prashker', 'Both Harry Potter movies', null), -- Chamber of Secrets & Goblet of Fire, -- Harry Potter and the Chamber of Secrets & Harry Potter and the Goblet of Fire
+(139650, 139655, 9, 'Maya Prashker', 'Both Harry Potter movies', null), -- Chamber of Secrets & Prisoner of Azkaban, -- Harry Potter and the Chamber of Secrets & Harry Potter and the Prisoner of Azkaban
+(139650, 139657, 9, 'Maya Prashker', 'Both Harry Potter movies', null), -- Chamber of Secrets & Sorcerer’s Stone, -- Harry Potter and the Chamber of Secrets & Harry Potter and the Sorcerer's Stone
+(139650, 139656, 9, 'Maya Prashker', 'Both Harry Potter movies', null), -- Chamber of Secrets & Prisoner of Azkaban (2004/II), -- Harry Potter and the Chamber of Secrets & Harry Potter and the Prisoner of Azkaban (2004/II)
+(139650, 139658, 9, 'Maya Prashker', 'Both Harry Potter movies', null), -- Chamber of Secrets & Sorcerer’s Stone (2001/II), -- Harry Potter and the Chamber of Secrets & Harry Potter and the Sorcerer's Stone (2001/II)
+(139652, 139655, 9, 'Maya Prashker', 'Both Harry Potter movies', null), -- Goblet of Fire & Prisoner of Azkaban, -- Harry Potter and the Goblet of Fire & Harry Potter and the Prisoner of Azkaban
+(139652, 139657, 9, 'Maya Prashker', 'Both Harry Potter movies', null), -- Goblet of Fire & Sorcerer’s Stone, -- Harry Potter and the Goblet of Fire & Harry Potter and the Sorcerer's Stone
+(139652, 139656, 9, 'Maya Prashker', 'Both Harry Potter movies', null), -- Goblet of Fire & Prisoner of Azkaban (2004/II), -- Harry Potter and the Goblet of Fire & Harry Potter and the Prisoner of Azkaban (2004/II)
+(139652, 139658, 9, 'Maya Prashker', 'Both Harry Potter movies', null), -- Goblet of Fire & Sorcerer’s Stone (2001/II), -- Harry Potter and the Goblet of Fire & Harry Potter and the Sorcerer's Stone (2001/II)
+(139655, 139657, 9, 'Maya Prashker', 'Both Harry Potter movies', null), -- Prisoner of Azkaban & Sorcerer’s Stone, -- Harry Potter and the Prisoner of Azkaban & Harry Potter and the Sorcerer's Stone
+(139655, 139656, 9, 'Maya Prashker', 'Both Harry Potter movies', null), -- Prisoner of Azkaban & Prisoner of Azkaban (2004/II), -- Harry Potter and the Prisoner of Azkaban & Harry Potter and the Prisoner of Azkaban (2004/II)
+(139655, 139658, 9, 'Maya Prashker ', 'Both Harry Potter movies', null), -- Prisoner of Azkaban & Sorcerer’s Stone (2001/II), -- Harry Potter and the Prisoner of Azkaban & Harry Potter and the Sorcerer's Stone (2001/II)
+(139657, 139656, 9, 'Maya Prashker', 'Both Harry Potter movies', null), -- Sorcerer’s Stone & Prisoner of Azkaban (2004/II), -- Harry Potter and the Sorcerer's Stone & Harry Potter and the Prisoner of Azkaban (2004/II)
+(139657, 139658, 9, 'Maya Prashker', 'Both Harry Potter movies', null), -- Sorcerer’s Stone & Sorcerer’s Stone (2001/II), -- Harry Potter and the Sorcerer's Stone & Harry Potter and the Sorcerer's Stone (2001/II)
+(139656, 139658, 9, 'Maya Prashker', 'Both Harry Potter movies', null),-- Prisoner of Azkaban (2004/II) & Sorcerer’s Stone (2001/II, -- Harry Potter and the Prisoner of Azkaban (2004/II) & Harry Potter and the Sorcerer's Stone (2001/II)
+(118367, 159665, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & Inglorious Bastards
+(118367, 164572, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & Jackie Brown
+(118367, 176711, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & Kill Bill: Vol. 1
+(118367, 176712, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & Kill Bill: Vol. 2
+(118367, 223710, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & My Best Friend's Birthday
+(118367, 267038, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & Pulp Fiction
+(118367, 276217, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & Reservoir Dogs
+(118367, 387728, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & "ER"
+(118367, 393538, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Four Rooms & "Jimmy Kimmel Live"
+(159665, 164572, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & Jackie Brown
+(159665, 176711, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & Kill Bill: Vol. 1
+(159665, 176712, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & Kill Bill: Vol. 2
+(159665, 223710, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & My Best Friend's Birthday
+(159665, 267038, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & Pulp Fiction
+(159665, 276217, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & Reservoir Dogs
+(159665, 387728, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & "ER"
+(159665, 393538, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Inglorious Bastards & "Jimmy Kimmel Live"
+(164572, 176711, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & Kill Bill: Vol. 1
+(164572, 176712, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & Kill Bill: Vol. 2
+(164572, 223710, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & My Best Friend's Birthday
+(164572, 267038, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & Pulp Fiction
+(164572, 276217, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & Reservoir Dogs
+(164572, 387728, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & "ER"
+(164572, 393538, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Jackie Brown & "Jimmy Kimmel Live"
+(176711, 176712, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 1 & Kill Bill: Vol. 2
+(176711, 223710, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 1 & My Best Friend's Birthday
+(176711, 267038, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 1 & Pulp Fiction
+(176711, 276217, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 1 & Reservoir Dogs
+(176711, 387728, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 1 & "ER"
+(176711, 393538, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 1 & "Jimmy Kimmel Live"
+(176712, 223710, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 2 & My Best Friend's Birthday
+(176712, 267038, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 2 & Pulp Fiction
+(176712, 276217, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 2 & Reservoir Dogs
+(176712, 387728, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 2 & "ER"
+(176712, 393538, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Kill Bill: Vol. 2 & "Jimmy Kimmel Live"
+(223710, 267038, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- My Best Friend's Birthday & Pulp Fiction
+(223710, 276217, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- My Best Friend's Birthday & Reservoir Dogs
+(223710, 387728, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- My Best Friend's Birthday & "ER"
+(223710, 393538, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- My Best Friend's Birthday & "Jimmy Kimmel Live"
+(267038, 276217, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Pulp Fiction & Reservoir Dogs
+(267038, 387728, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Pulp Fiction & "ER"
+(267038, 393538, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Pulp Fiction & "Jimmy Kimmel Live"
+(276217, 387728, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Reservoir Dogs & "ER"
+(276217, 393538, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- Reservoir Dogs & "Jimmy Kimmel Live"
+(387728, 393538, 8, 'Maya Prashker', 'Both movies directed by Quentin Tarantino', null), -- "ER" & "Jimmy Kimmel Live"
 (6, 21, 5, 'Maya Prashker', 'Both Comedy Movies', null), -- $1,000,000 Duck & $5.15/Hr.
 (6, 28, 5, 'Maya Prashker', 'Both Comedy Movies', null), -- $1,000,000 Duck & $500 Reward, The
 (6, 29, 5, 'Maya Prashker', 'Both Comedy Movies', null), -- $1,000,000 Duck & $500,000 Reward
@@ -180,13 +180,22 @@ insert into imdb_ijs.movies_recommendations values
 (262, 35, 2, 'Maya Prashker', 'Genres are completely different', null), -- 'Til Death Do Us Part & "Bear" Facts, The
 (302, 2, 2, 'Maya Prashker', 'Genres are completely different', null), -- Zmeiny istochnik & $
 (302, 18, 2, 'Maya Prashker', 'Genres are completely different', null), -- Zmeiny istochnik & $40,000
-(1, 22, 3, 'Maya', 'Difference in time periods', null), -- ? & ?
-(17, 52, 3, 'Maya', 'Difference in time periods', null), -- ? & 'A' gai waak
-(31, 94, 3, 'Maya', 'Difference in time periods', null), -- ? & 'Crocodile' Dundee II
-(33, 68, 3, 'Maya', 'Difference in time periods', null), -- ? & ?
-(42, 137, 3, 'Maya', 'Difference in time periods', null), -- ? & ?
-(57, 158, 3, 'Maya', 'Difference in time periods', null), -- ? & ?
-(67, 144, 3, 'Maya', 'Difference in time periods', null), -- ? & ?
-(77, 195, 3, 'Maya', 'Difference in time periods', null), -- ? & ?
-(117, 62, 3, 'Maya', 'Difference in time periods', null), -- 'Halloween 4' Final Cut & 'Babicky dobejte presne!'
-(171, 73, 3, 'Maya', 'Difference in time periods', null);-- ? & 'burbs, The
+(1, 22, 3, 'Maya Prashker', 'Difference in time periods', null), -- ? & ?
+(17, 52, 3, 'Maya Prashker', 'Difference in time periods', null), -- ? & 'A' gai waak
+(31, 94, 3, 'Maya Prashker', 'Difference in time periods', null), -- ? & 'Crocodile' Dundee II
+(33, 68, 3, 'Maya Prashker', 'Difference in time periods', null), -- ? & ?
+(42, 137, 3, 'Maya Prashker', 'Difference in time periods', null), -- ? & ?
+(57, 158, 3, 'Maya Prashker', 'Difference in time periods', null), -- ? & ?
+(67, 144, 3, 'Maya Prashker', 'Difference in time periods', null), -- ? & ?
+(77, 195, 3, 'Maya Prashker', 'Difference in time periods', null), -- ? & ?
+(117, 62, 3, 'Maya Prashker', 'Difference in time periods', null), -- 'Halloween 4' Final Cut & 'Babicky dobejte presne!'
+(171, 73, 3, 'Maya Prashker', 'Difference in time periods', null),-- ? & 'burbs, The
+(62, 73, 5, 'Maya Prashker', 'Both Horror movies', null), -- 'Babicky dobejte presne!' & 'burbs, The
+(117, 118, 5, 'Maya Prashker', 'Both Horror movies', null), -- 'Halloween 4' Final Cut & 'Halloween' Unmasked 2000
+(133, 156, 5, 'Maya Prashker', 'Both Horror movies', null), -- 'It's Alive!' & 'Manos' the Hands of Fate
+(230, 262, 5, 'Maya Prashker', 'Both Horror movies', null), -- 'Salem's Lot & 'Til Death Do Us Part
+(302, 337, 5, 'Maya Prashker', 'Both Horror movies', null), -- Zmeiny istochnik & ...a tutte le auto della polizia
+(499, 675, 5, 'Maya Prashker', 'Both Horror movies', null), -- ...ya no puede caminar. & 100 Days
+(724, 725, 5, 'Maya Prashker', 'Both Horror movies', null), -- 100 Years of Horror & 100 Years of Horror: Freaks
+(133, 302, 5, 'Maya Prashker', 'Both Horror movies', null), -- 'It's Alive!' & Zmeiny istochnik
+(62, 118, 5, 'Maya Prashker', 'Both Horror movies', null); -- 'Babicky dobejte presne!' & 'Halloween' Unmasked 2000
