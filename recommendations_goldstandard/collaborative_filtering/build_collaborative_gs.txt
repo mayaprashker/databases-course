@@ -41,9 +41,11 @@ select base_movie_id as movie_id, recommendation from imdb_ijs.movies_recommenda
 union all
 select recommended_movie_id as movie_id, recommendation from imdb_ijs.movies_recommendations
 ) as inSql
-where recommendation > 5
+where recommendation > 6
 group by movie_id
 having count(*) > 1
+union
+select id from movies as m where year > 1995 and m.rank > 9.2
 ) as candidates
 join
 movies as m
@@ -51,7 +53,6 @@ on
 candidates.movie_id = m.id
 order by m.name
 ;
-
 
 # People that like this movie, also liked those movies
 select
