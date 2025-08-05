@@ -29,6 +29,7 @@ OR
 
 # People playing themselves by the number of such roles
 # The leading person is surprsing yet sensible once knowing.
+# Thank you for finding out, Achiad!
 # Note that this is not a mistake in the data 
 # However, how can it influence role based movie recommendations
 select 
