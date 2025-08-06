@@ -69,6 +69,28 @@ actor_id = 209799
 order by year desc
 ;
 
+# The American and Russian equivalents.
+# For some reason, the British were not found.
+# Note the years, some strange names, and different roles
+select first_name
+, last_name
+, role
+, year
+, name
+from actors as a
+join
+roles as r
+on
+a.id = r.actor_id
+join
+movies as m
+on
+r.movie_id = m.id
+where
+a.id in (451067, '406686')
+order by
+a.id, role, name
+;
 
 # Self roles number distribution
 # How will the distribution influence role based recommendations?
