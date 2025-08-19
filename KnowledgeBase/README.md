@@ -11,7 +11,10 @@
 3. [TutorialsPoint](https://www.tutorialspoint.com/sql/index.htm) - sytax oriented
 4. [GeekForGeek](https://www.geeksforgeeks.org/sql-tutorial/) - syntax oriented
 5. [SQLBOLT](https://sqlbolt.com/) - Movies and Syntax oriented
-6. [MIT very different oriented databases course](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/)
+
+   # Courses
+1. [MIT very different oriented databases course](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010
+2. [IBM introduction to SQL (edx)](https://www.edx.org/learn/sql/ibm-introduction-to-sql)
    
 # Market expectations
 1. [GeeksForGeeks database interview questions](https://www.geeksforgeeks.org/database-interview-questions/)
